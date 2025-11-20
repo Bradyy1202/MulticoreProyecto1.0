@@ -1,0 +1,4418 @@
+{
+  "generated_at": "2025-11-19 23:49:39",
+  "currency": "USD",
+  "count_total": 200,
+  "count_with_prices": 180,
+  "items": [
+    {
+      "name": "Torchlight II",
+      "steam": {
+        "appid": 200710,
+        "price": 3.99,
+        "rating": 88.0,
+        "url": "https://store.steampowered.com/app/200710"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "16h",
+        "main_extra": "34h",
+        "completionist": "43h"
+      },
+      "metacritic": {
+        "score": 70,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 3.99
+    },
+    {
+      "name": "Among Us",
+      "steam": {
+        "appid": 945360,
+        "price": 4.99,
+        "rating": 85.0,
+        "url": "https://store.steampowered.com/app/945360"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "17h",
+        "main_extra": "23h",
+        "completionist": "47h"
+      },
+      "metacritic": {
+        "score": 77,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 4.99
+    },
+    {
+      "name": "Assetto Corsa",
+      "steam": {
+        "appid": 244210,
+        "price": 4.99,
+        "rating": 85.0,
+        "url": "https://store.steampowered.com/app/244210"
+      },
+      "amazon": {
+        "price": 6.99,
+        "url": "https://www.amazon.com/Assetto-Corsa-Pack-Online-Game/dp/B07D5CF9PC/ref=sr_1_10?dib=eyJ2IjoiMSJ9.szzoGLacEmWt7M1pBfLl6c17XaLPSUDpp7INB4EjBQTwqt1VGve_qCYwGbs-mAJmQKwI4cg-CJXrlU1YlqeR115cQMpmF8O-_C21wzM2zSoqIsN5g-24fU6UbhiRQEhpO0jLAKk75ErI2TsZM10G6uLFZPP4pTRodOMYkwjcO42TukV1zsD-qYCH21ltgiNQTVyIJUYM-zeqDh4e6pDrwJyAxVlT17YbZFiqPm_yUjA.r4j-uGAyKpXY8_fh51lLdV0fUPLSoA34KPhKx8BsFY0&dib_tag=se&keywords=Assetto+Corsa&qid=1763617744&s=videogames&sr=1-10"
+      },
+      "hltb": {
+        "main": "29h",
+        "main_extra": "33h",
+        "completionist": "52h"
+      },
+      "metacritic": {
+        "score": 77,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 4.99
+    },
+    {
+      "name": "BioShock Infinite",
+      "steam": {
+        "appid": 2028850,
+        "price": 4.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/2028850"
+      },
+      "amazon": {
+        "price": 8.3,
+        "url": "https://www.amazon.com/BioShock-Infinite-Xbox-360-Renewed/dp/B07W6K5JTB/ref=sr_1_4?dib=eyJ2IjoiMSJ9.3YR5tvFtfasTMC06JN7I9r6Svx5J1gCfGaeaQcQpdrFJKmRk80EXFG_B6ZeYG5M0siBvO23LevhcQzawQ4Yl5skw5uMCSUJSHbNq1j5UM_TygBZ0NM1dR6RYuXIKt2uqzYeEKv7rL_6z-_m0DV04JMNrmvyW_SSCyZG4BzoUEvw_Y0k9bYV6RoKO2yhWG-y4-08VZe21GbQKQ_9O4dsZEIsbBNoYw2KWT7ziiCIUmho.yCZ2vWC8K0du2P_zftDtgTwP1qXu96GJSZAZ2RIVJ70&dib_tag=se&keywords=BioShock+Infinite&qid=1763617740&s=videogames&sr=1-4"
+      },
+      "hltb": {
+        "main": "37h",
+        "main_extra": "41h",
+        "completionist": "65h"
+      },
+      "metacritic": {
+        "score": 55,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 4.99
+    },
+    {
+      "name": "Slime Rancher",
+      "steam": {
+        "appid": 433340,
+        "price": 4.99,
+        "rating": 81.0,
+        "url": "https://store.steampowered.com/app/433340"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "40h",
+        "main_extra": "59h",
+        "completionist": "76h"
+      },
+      "metacritic": {
+        "score": 88,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 4.99
+    },
+    {
+      "name": "Vampire Survivors",
+      "steam": {
+        "appid": 1794680,
+        "price": 4.99,
+        "rating": 86.0,
+        "url": "https://store.steampowered.com/app/1794680"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "14h",
+        "main_extra": "17h",
+        "completionist": "30h"
+      },
+      "metacritic": {
+        "score": 59,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 4.99
+    },
+    {
+      "name": "Cities: Skylines II",
+      "steam": {
+        "appid": 949230,
+        "price": 49.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/949230"
+      },
+      "amazon": {
+        "price": 5.99,
+        "url": "https://www.amazon.com/Cities-Skylines-Content-Creator-Online/dp/B0BX165FNP/ref=sr_1_2?dib=eyJ2IjoiMSJ9.m0qHlREyMi_Kkbu9BQYBWxsA80gTsgmTpKaNHDG2QRu5ZQHLiPlzaCK4jI5K1EQ6Kg2JMn3A0A2WWRd4Vk_M3_KeZuip8KBf-Z4h6uQcZ5Q.77sEwUntR9xiqExXoA8BhAyRmwRwIHPv-dGzZxkDCOc&dib_tag=se&keywords=Cities%3A+Skylines+II&qid=1763617742&s=videogames&sr=1-2"
+      },
+      "hltb": {
+        "main": "16h",
+        "main_extra": "35h",
+        "completionist": "46h"
+      },
+      "metacritic": {
+        "score": 81,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 5.99
+    },
+    {
+      "name": "Borderlands 2",
+      "steam": {
+        "appid": 49520,
+        "price": 19.99,
+        "rating": 89.0,
+        "url": "https://store.steampowered.com/app/49520"
+      },
+      "amazon": {
+        "price": 6.92,
+        "url": "https://www.amazon.com/Borderlands-2-Playstation-3-Renewed/dp/B088G25MBC/ref=sr_1_6?dib=eyJ2IjoiMSJ9.OP8yFZvzgquScT5Tdb4HeKNdeGX1OAzIgLCpqk04j5oGx9isyY13oy1gxygZvbcsk1qGQNUr50MYZmJCnYGgawvjwLf4wYqyCVGIgDw29WrYB0oSaUiJ3ku3lB_kf-cIp2gT_HCZFhhjaJPug88alrBtg9HjSrPr-KnAofWzlMljQ_cr-wU3Kn3RonTJElPxqYC9-PemMJJX4JKn414EPqAnoSULB_dijpI3Y7XGcDM.PrCtZR_yhl1xpD15_WHlgOaFrij6be5X2XBrzW3AieM&dib_tag=se&keywords=Borderlands+2&qid=1763617742&s=videogames&sr=1-6"
+      },
+      "hltb": {
+        "main": "29h",
+        "main_extra": "44h",
+        "completionist": "63h"
+      },
+      "metacritic": {
+        "score": 80,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 6.92
+    },
+    {
+      "name": "Green Hell",
+      "steam": {
+        "appid": 815370,
+        "price": 6.99,
+        "rating": 78.0,
+        "url": "https://store.steampowered.com/app/815370"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "14h",
+        "main_extra": "32h",
+        "completionist": "53h"
+      },
+      "metacritic": {
+        "score": 52,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 6.99
+    },
+    {
+      "name": "Chrono Trigger",
+      "steam": {
+        "appid": 613830,
+        "price": 7.49,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/613830"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "7h",
+        "main_extra": "25h",
+        "completionist": "42h"
+      },
+      "metacritic": {
+        "score": 73,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 7.49
+    },
+    {
+      "name": "Cuphead",
+      "steam": {
+        "appid": 268910,
+        "price": 19.99,
+        "rating": 88.0,
+        "url": "https://store.steampowered.com/app/268910"
+      },
+      "amazon": {
+        "price": 7.88,
+        "url": "https://www.amazon.com/Cuphead-Delicious-Course-Standard-Digital/dp/B0B6CY95TK/ref=sr_1_9?dib=eyJ2IjoiMSJ9.8rr0tKL8e4ITrD7NlJ-bOM196CeAtGtdqaV3F2JDwYoh-yfRET4opKLc6B3XqIrXWLa5sBfbjsqWquLo3Voh290HDCWupLEWYpmf8c4wHUvRbjk4TnilfV2vzvXnNeG_GlHQKnel2wI6h4EBOADaVMRBFrwE6_y8Yi4nO_rbdb5ROatASicAJ5q7HDqm0yFhBbwDu3qdqAVsSBWJ1GTH3ZTwRXfDJNhY6zG70KId8nU.7x1-ueM_xM6h0S8O6gHfwbIfMAScASIZFZhNW54XWd0&dib_tag=se&keywords=Cuphead&qid=1763617740&s=videogames&sr=1-9"
+      },
+      "hltb": {
+        "main": "21h",
+        "main_extra": "30h",
+        "completionist": "53h"
+      },
+      "metacritic": {
+        "score": 76,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 7.88
+    },
+    {
+      "name": "Final Fantasy XV Windows Edition",
+      "steam": {
+        "appid": 637650,
+        "price": 13.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/637650"
+      },
+      "amazon": {
+        "price": 7.94,
+        "url": "https://www.amazon.com/CCI152-Fantasy-Reborn-Laptop-Window/dp/B01G4WGRAE/ref=sr_1_5?dib=eyJ2IjoiMSJ9.j0Xb5NGSFCZwhflWFZlu2aQMtsJxjWNRbysyo_kUo5bHobC5mEhTBQXJOREYYuKRXOZ9VYoyBS2-s4z0gFwJffWWSAhFHsVe0fCtUB79Ft2MTrjh8i2xMiAN-VNlOYli5YCyM0g-da10WeNstR_MKPRt6uKKzEzBPwE0O63wRoxYPOP9P0-jFoowH9e8H8A7nlz_tWsPn0KkmGjF1RabfW1C9Q9EKXjXhEi99P02LsA.uaLcPmPaDoFBXFvBgp1-_QO_mRcn3dItyW-Q28v9a6E&dib_tag=se&keywords=Final+Fantasy+XV+Windows+Edition&qid=1763617740&s=videogames&sr=1-5-catcorr"
+      },
+      "hltb": {
+        "main": "7h",
+        "main_extra": "12h",
+        "completionist": "22h"
+      },
+      "metacritic": {
+        "score": 68,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 7.94
+    },
+    {
+      "name": "Live A Live",
+      "steam": {
+        "appid": 2014380,
+        "price": 19.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/2014380"
+      },
+      "amazon": {
+        "price": 8.68,
+        "url": "https://www.amazon.com/Left-Alive-PlayStation-4/dp/B075SNBNMR/ref=sr_1_10?dib=eyJ2IjoiMSJ9.vyKVhf1IUApeNLnk7u99VpIpDYAcRpmE0pkUjtaNnF_QXAd_EKdLjAktpzLBKOVOWOPetpzs3aDye9e4vH11CKvoTPhqTScjWB7Resrn6y35yoxUJTLkEXOU7SW7YDa1JrMGHoMVIHR7OHNSyxcQoQKcsaqvvmjfsYFgzVaULWDmWkc35Ml_d6QIAfgaQvUAxbh9K_ZYJhs9G5EJ5YkNmy7Cc43QAG3a8dxPRwogwQA.TbHftyPEGcHXURiEfMkLh165txX-zUQp_aoVYl9fhEw&dib_tag=se&keywords=Live+A+Live&qid=1763617740&s=videogames&sr=1-10"
+      },
+      "hltb": {
+        "main": "11h",
+        "main_extra": "25h",
+        "completionist": "40h"
+      },
+      "metacritic": {
+        "score": 57,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 8.68
+    },
+    {
+      "name": "Wolfenstein: The New Order",
+      "steam": {
+        "appid": 201810,
+        "price": 19.99,
+        "rating": 81.0,
+        "url": "https://store.steampowered.com/app/201810"
+      },
+      "amazon": {
+        "price": 9.48,
+        "url": "https://www.amazon.com/Wolfenstein-New-Order-Xbox-One-Renewed/dp/B0BKWV2SLY/ref=sr_1_8?dib=eyJ2IjoiMSJ9.HBOpuNGoJZvmP5mha_me6bKTpNzZcRXTKlFzriAV2YE87QzOa8ER27FfFcJzoCRft2xNP01H4MWqHRJmb_pyIM8ZPR2O9upgoc_zfNJ4bBXH-ncDGjxpVigWnoLa909M5gSFyOENF-ilNG2hftZEQR3LjIo4rik3PyDpdaYAWu5MD8r3sXheMfMyCrLO4VTVlSoZnWQ_KgDnggss8WVEU3uFkp12L147X3vnqmLgsNM.hW-5rXBZ6n7frSMCAR6k14qvdTy_WmfHorkPihK0A5o&dib_tag=se&keywords=Wolfenstein%3A+The+New+Order&qid=1763617744&s=videogames&sr=1-8"
+      },
+      "hltb": {
+        "main": "18h",
+        "main_extra": "37h",
+        "completionist": "59h"
+      },
+      "metacritic": {
+        "score": 52,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 9.48
+    },
+    {
+      "name": "Devil May Cry 5",
+      "steam": {
+        "appid": 601150,
+        "price": 9.89,
+        "rating": 89.0,
+        "url": "https://store.steampowered.com/app/601150"
+      },
+      "amazon": {
+        "price": 22.9,
+        "url": "https://www.amazon.com/Devil-May-Cry-Special-PlayStation-5/dp/B08JDRZX4S/ref=sr_1_3?dib=eyJ2IjoiMSJ9.ErMK7cryNDClN1FuUAPj6lKOYb0DUVF_6H3UJeCmUWqUCFJQI9RAp94Dq0ybtrHfAJGLsyvVXV8RaWAMr2dQGuRFWXTpckv3WR4oGsJHiv72Akv_JJxcNl9dbni-I5gbjfJKXWfRrM9g25lBOLZ9lRkqwQB9YcyFpVhGJzafDHP7Nh8P4Oab-e3fBrCYeiDDK4CVJXZBRhB11U_GqC2PNWD2ya7i5CaLawbcTWMnM-U.n9MOqBGY_FdWW0kBztLnlDl-HDOPTQapGuP6UWrjgCI&dib_tag=se&keywords=Devil+May+Cry+5&qid=1763617744&s=videogames&sr=1-3"
+      },
+      "hltb": {
+        "main": "11h",
+        "main_extra": "13h",
+        "completionist": "21h"
+      },
+      "metacritic": {
+        "score": 63,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 9.89
+    },
+    {
+      "name": "Assetto Corsa Competizione",
+      "steam": {
+        "appid": 805550,
+        "price": 9.99,
+        "rating": 77.0,
+        "url": "https://store.steampowered.com/app/805550"
+      },
+      "amazon": {
+        "price": 25.27,
+        "url": "https://www.amazon.com/Assetto-Corsa-Ultimate-PS4-playstation-4/dp/B079WVCY1B/ref=sr_1_5?dib=eyJ2IjoiMSJ9.hoPZe_L0W6qIkeiF3n9OHZBF01ecinPKGHF6Z9xXv48wC7bNGpoSqOQGgOcpgoFVi-XSzjHfjTGUK0eMx890dG0OHyLYWx3MwxC7gGUtcvifRUDcSYpfyEfNT9BO8KKrCuQM0P-_bEVABJl7OM_z6jBoJgjrTnGOgvkd9PBaSJaNkAR02CNRXCdcX9P5QMNi.S-RGyo3yemJR4J3Sbvdo48OY0wmX8WkGH6eckawEXuw&dib_tag=se&keywords=Assetto+Corsa+Competizione&qid=1763617744&s=videogames&sr=1-5"
+      },
+      "hltb": {
+        "main": "13h",
+        "main_extra": "33h",
+        "completionist": "49h"
+      },
+      "metacritic": {
+        "score": 69,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 9.99
+    },
+    {
+      "name": "Destiny 2",
+      "steam": {
+        "appid": 1085660,
+        "price": null,
+        "rating": 83.0,
+        "url": "https://store.steampowered.com/app/1085660"
+      },
+      "amazon": {
+        "price": 9.99,
+        "url": "https://www.amazon.com/Destiny-2-Xbox-One/dp/B07DWCZ6MZ/ref=sr_1_6?dib=eyJ2IjoiMSJ9.4gHjifGQcu0CqHQdKwTs3gXbbNkyeDFHLh1ax1v2_iYT7FXL8tUotpWiI0gYr1il8IBEiEqhfNrJ8RQ8YJygTzt4UMRoc9IH1DFAS9US9GkUB3ouvlK8Pi1UUg-oAtwfvbD1dw_Btt6auBfI5heYX2OQrdUdfo8smbq1b8iraojavLtIWlq3xZ656rJgtgIxXA6RsanVv-Ozco5oTXzphZCDzM_37XwLqu2e7jCpqaQ.xZQPuFI3Ned9PxkGNPlpB2PZBEZBYN3ko0UO2zNL73Q&dib_tag=se&keywords=Destiny+2&qid=1763617740&s=videogames&sr=1-6"
+      },
+      "hltb": {
+        "main": "22h",
+        "main_extra": "37h",
+        "completionist": "55h"
+      },
+      "metacritic": {
+        "score": 63,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 9.99
+    },
+    {
+      "name": "Dishonored",
+      "steam": {
+        "appid": 205100,
+        "price": 9.99,
+        "rating": 91.0,
+        "url": "https://store.steampowered.com/app/205100"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "8h",
+        "main_extra": "22h",
+        "completionist": "30h"
+      },
+      "metacritic": {
+        "score": 75,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 9.99
+    },
+    {
+      "name": "Don't Starve",
+      "steam": {
+        "appid": 219740,
+        "price": 9.99,
+        "rating": 79.0,
+        "url": "https://store.steampowered.com/app/219740"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "8h",
+        "main_extra": "25h",
+        "completionist": "39h"
+      },
+      "metacritic": {
+        "score": 59,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 9.99
+    },
+    {
+      "name": "F1 23",
+      "steam": {
+        "appid": 2426210,
+        "price": 9.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/2426210"
+      },
+      "amazon": {
+        "price": 19.0,
+        "url": "https://www.amazon.com/F1-23-Xbox-X/dp/B0C3TB5L7P/ref=sr_1_2?dib=eyJ2IjoiMSJ9.rkYnsKHeMjuur_ANvbBqvBhiHTst4duujLlgSwyxhbSZcQxl0pYfl4yCNxqCyisIOM3prMFz9n6h76bp11dQNHjzFMd4LA0QFyT-Df2JwuhEsqjoC9WOiWhvwNlC6TBHnPVDhK6XJFXWBzZpHPNkOGeuSL9FkVNHZGo8xdjNy5r7xsCURlecK106fnwTnVeHBCw5Ct_6K04mGH91plIdPdJ7-JR5nbjYeeGkR6rlhIU.bwxD_686k8r9A1VyoEk963Oq_5-DF11_Oc2wmoG3umY&dib_tag=se&keywords=F1+23&qid=1763617744&s=videogames&sr=1-2"
+      },
+      "hltb": {
+        "main": "23h",
+        "main_extra": "36h",
+        "completionist": "52h"
+      },
+      "metacritic": {
+        "score": 59,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 9.99
+    },
+    {
+      "name": "Fallout: New Vegas",
+      "steam": {
+        "appid": 22380,
+        "price": 9.99,
+        "rating": 84.0,
+        "url": "https://store.steampowered.com/app/22380"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "35h",
+        "main_extra": "52h",
+        "completionist": "59h"
+      },
+      "metacritic": {
+        "score": 80,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 9.99
+    },
+    {
+      "name": "Half-Life 2",
+      "steam": {
+        "appid": 220,
+        "price": 9.99,
+        "rating": 96.0,
+        "url": "https://store.steampowered.com/app/220"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "18h",
+        "main_extra": "30h",
+        "completionist": "35h"
+      },
+      "metacritic": {
+        "score": 71,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 9.99
+    },
+    {
+      "name": "Left 4 Dead 2",
+      "steam": {
+        "appid": 550,
+        "price": 9.99,
+        "rating": 89.0,
+        "url": "https://store.steampowered.com/app/550"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "4h",
+        "main_extra": "6h",
+        "completionist": "17h"
+      },
+      "metacritic": {
+        "score": 66,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 9.99
+    },
+    {
+      "name": "Lethal Company",
+      "steam": {
+        "appid": 1966720,
+        "price": 9.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1966720"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "35h",
+        "main_extra": "48h",
+        "completionist": "69h"
+      },
+      "metacritic": {
+        "score": 81,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 9.99
+    },
+    {
+      "name": "Limbo",
+      "steam": {
+        "appid": 48000,
+        "price": 9.99,
+        "rating": 88.0,
+        "url": "https://store.steampowered.com/app/48000"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "7h",
+        "main_extra": "11h",
+        "completionist": "34h"
+      },
+      "metacritic": {
+        "score": 57,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 9.99
+    },
+    {
+      "name": "Need for Speed Heat",
+      "steam": {
+        "appid": 1222680,
+        "price": 69.99,
+        "rating": 72.0,
+        "url": "https://store.steampowered.com/app/1222680"
+      },
+      "amazon": {
+        "price": 9.99,
+        "url": "https://www.amazon.com/Need-Speed-Deluxe-Upgrade-Digital/dp/B07YVY2BHT/ref=sr_1_5?dib=eyJ2IjoiMSJ9.5nmb9EhZBotXeoNdPXCvjesdLvsk7Zrgp2zGgMxso1idlRP-dBwaZ0B_n6dzQyZSE_kh1WLM5-c-9t2-PYhM0ZveYleV4TgaRhu1HtZx0tzmceunACwpN3n_W0ixiTz5he8uL2WrMJXVl7n6scxBDYiXfOeBO1zCwiKy9vF-0P55VoV8BHWY6NUDWOgaFg6eu7FcVO0UbeaPRO3OsCzlJ-ZMsrDgObPp-O8mdBL5ohE.udM0cHipwdbmP-weqSCfEunq7vxzoyXp5X9QYo1t1M4&dib_tag=se&keywords=Need+for+Speed+Heat&qid=1763617744&s=videogames&sr=1-5"
+      },
+      "hltb": {
+        "main": "6h",
+        "main_extra": "9h",
+        "completionist": "34h"
+      },
+      "metacritic": {
+        "score": 61,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 9.99
+    },
+    {
+      "name": "Need for Speed Payback",
+      "steam": {
+        "appid": 1262580,
+        "price": 29.99,
+        "rating": 62.0,
+        "url": "https://store.steampowered.com/app/1262580"
+      },
+      "amazon": {
+        "price": 9.99,
+        "url": "https://www.amazon.com/Need-Speed-Payback-Upgrade-Digital/dp/B076BD4136/ref=sr_1_8?dib=eyJ2IjoiMSJ9.SnwdNKD-rXc1jPKQNi7AxWg0wsZ9eIMwvqMa4IxkHoeq1Z0fgOej2oNyvNR6JIyJRgGUdtbatkuBiilJt3x9nNO4wswC1js8rsr65cAmA_sOJoGQYLNTW0yTLR6iteUxp793F0447KThGBnUjNeBhJrrSjI_w0J7SkXjaTRQI347hCzpU8M4zuWJHSSP7mVNqwtGm4s89o4Ad8rER-2zGHbWC1EXpFYF4OQlC7i6NsI.HHslEtNupuAiPFupt6sA1380BoHr8bZsP-m-8UUfmLg&dib_tag=se&keywords=Need+for+Speed+Payback&qid=1763617744&s=videogames&sr=1-8"
+      },
+      "hltb": {
+        "main": "18h",
+        "main_extra": "29h",
+        "completionist": "42h"
+      },
+      "metacritic": {
+        "score": 55,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 9.99
+    },
+    {
+      "name": "Payday 2",
+      "steam": {
+        "appid": 218620,
+        "price": 9.99,
+        "rating": 79.0,
+        "url": "https://store.steampowered.com/app/218620"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "23h",
+        "main_extra": "37h",
+        "completionist": "48h"
+      },
+      "metacritic": {
+        "score": 88,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 9.99
+    },
+    {
+      "name": "PC Building Simulator",
+      "steam": {
+        "appid": 621060,
+        "price": 19.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/621060"
+      },
+      "amazon": {
+        "price": 9.99,
+        "url": "https://www.amazon.com/Rollercoaster-Tycoon-Triple-Thrill-Download/dp/B004APAELG/ref=sr_1_7?dib=eyJ2IjoiMSJ9.frKYXOz1781dUXvoJClu20dA9lVcmBrB0B0zSqkfTY3PPpRlTYYM5zjCECfzx8ABx4GHgQWhjpfNOfeNB2PsqaJrD_L0ohV3lheyA87dI8YKw9sujs9D93wDAAAt4fjGQmjT6H6WNcHfLaQPNyIwAjHntcKt-LEI7LBNiEwXTE6BZy1RhNP_SjD21y90T7-h7YwrpyqhZwhVhIZNzC4N_b25py5_qv_jMNwuEA3XAqc.ODG_UJpYwvN8HtEih84uVhW767HLhO_hsDPwrlNqcR4&dib_tag=se&keywords=PC+Building+Simulator&qid=1763617742&s=videogames&sr=1-7"
+      },
+      "hltb": {
+        "main": "21h",
+        "main_extra": "34h",
+        "completionist": "40h"
+      },
+      "metacritic": {
+        "score": 70,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 9.99
+    },
+    {
+      "name": "Portal",
+      "steam": {
+        "appid": 400,
+        "price": 9.99,
+        "rating": 90.0,
+        "url": "https://store.steampowered.com/app/400"
+      },
+      "amazon": {
+        "price": 12.95,
+        "url": "https://www.amazon.com/Portal-2-Xbox-360/dp/B002I0J9M0/ref=sr_1_4?dib=eyJ2IjoiMSJ9.9x1chpVZAdGmZfUg6T6anSjSlTSCGHuJDb43kGUWM3_c6ylDDRxhta7KJ82Gg0sYKxs-lhUbkqs9IFDQbZkSSHYTb9_GAPR4tBxEarXoPpFhIICWihlGzli42EKA_1f2kwJk1lM7-jEhtUZsxQdMssW3HbHdee03Wr60j3ho4aAANzHHpE8xFR7NKCN-sB-nJ0BYvxEBH_ivCws1NwhRocfCZufb3QcL2fbpjNMqi94.XVCj80Fezwd2Hub3Xno1IcMeAS_fSzMYyivUlozHxYg&dib_tag=se&keywords=Portal&qid=1763617740&s=videogames&sr=1-4"
+      },
+      "hltb": {
+        "main": "28h",
+        "main_extra": "42h",
+        "completionist": "51h"
+      },
+      "metacritic": {
+        "score": 88,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 9.99
+    },
+    {
+      "name": "Portal 2",
+      "steam": {
+        "appid": 620,
+        "price": 9.99,
+        "rating": 95.0,
+        "url": "https://store.steampowered.com/app/620"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "22h",
+        "main_extra": "24h",
+        "completionist": "30h"
+      },
+      "metacritic": {
+        "score": 59,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 9.99
+    },
+    {
+      "name": "Quantum Break",
+      "steam": {
+        "appid": 474960,
+        "price": 39.99,
+        "rating": 66.0,
+        "url": "https://store.steampowered.com/app/474960"
+      },
+      "amazon": {
+        "price": 9.99,
+        "url": "https://www.amazon.com/Your-Quantum-Breakthrough-Sandra-Taylor-ebook/dp/B00MVBIYBS/ref=sr_1_4?dib=eyJ2IjoiMSJ9.zMbG-GoeCktgO8wLZnu-Q8yCsS3PEHN1o4YDGPw45d450i6XU8pgftvgJG0JIfIAdTlLAXLSBt5YYwjiRoGIGtXSYjyqnkz94wL0NDmipSB1NJP9YM1v5xaTKKEXd2Q2G_o0zqmawy7Vbu6dGQVSoiERMdVppJMg00LfGrbuGNGcEqKsiUQ_SaxnDmHHuwossbi02SmyNzkTD25VCCw7TeLAatYasr6FjTkV5668E8I.1MAFdc-edeUR7e7gA4B_UrmT6sK2-VoM9YYsAdjeQXw&dib_tag=se&keywords=Quantum+Break&qid=1763617740&s=videogames&sr=1-4-catcorr"
+      },
+      "hltb": {
+        "main": "28h",
+        "main_extra": "30h",
+        "completionist": "54h"
+      },
+      "metacritic": {
+        "score": 58,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 9.99
+    },
+    {
+      "name": "Rogue Legacy 2",
+      "steam": {
+        "appid": 1253920,
+        "price": 24.99,
+        "rating": 88.0,
+        "url": "https://store.steampowered.com/app/1253920"
+      },
+      "amazon": {
+        "price": 9.99,
+        "url": "https://www.amazon.com/Rogue-Legacy-Game-Guide-Progression-ebook/dp/B0FYD9XHKQ/ref=sr_1_3?dib=eyJ2IjoiMSJ9.BsY-Sn3ke-ia0uDuSiouC_NnA4toDA9zSUyuU1pXBw41fi5aYWraI-po02VsErfl3GNI1vKu0OiUJBx4qb-_BbJgVpQzqacueOM8CRXsSV4ePX6eINZiV-WrMgn6S_6zU5b-3yVkjLjILiI4bBmgqUUgMndsTnzW4e4ZBfqF9XyIcd9ihBJ43jsvVbJ54GZEf2S7o-Mxfq9vGbz3qL8qokawWo3oxkE_jHL-Jd7OENs.-9gql6PR_9rLAmQQsSjS7aH295kzhts7vSXkCpuLhVg&dib_tag=se&keywords=Rogue+Legacy+2&qid=1763617740&s=videogames&sr=1-3-catcorr"
+      },
+      "hltb": {
+        "main": "31h",
+        "main_extra": "40h",
+        "completionist": "59h"
+      },
+      "metacritic": {
+        "score": 59,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 9.99
+    },
+    {
+      "name": "Terraria",
+      "steam": {
+        "appid": 105600,
+        "price": 9.99,
+        "rating": 83.0,
+        "url": "https://store.steampowered.com/app/105600"
+      },
+      "amazon": {
+        "price": 12.97,
+        "url": "https://www.amazon.com/Terraria-Xbox-360-Renewed/dp/B07Y8HZF1C/ref=sr_1_5?dib=eyJ2IjoiMSJ9.Dt0xJkk0ZGNflJ8ZL8mjBpQwJo3GnBZcRReYiWtDohJq9e_eda3qhibnCyKFkVKkic0x5xfnnB0QBIT8AfwGhRccCciGEizvWeiVQVhlbfAw7oAIti70sfnOVUtZlePe2V2q_0vytLU4Fty-E8hC-1aSW2TFtqrRZTxL_ih-eUriKARU_yuerrHEVHBc-7zj_TQ8KdNvl-UMDasGM40oBAuMN1xWweLVMl3vwcK6uns.3M4f3Iz4kKVkHlJTp2CSNOvTU_9lzmIf-uFAnlv74mM&dib_tag=se&keywords=Terraria&qid=1763617740&s=videogames&sr=1-5"
+      },
+      "hltb": {
+        "main": "38h",
+        "main_extra": "40h",
+        "completionist": "56h"
+      },
+      "metacritic": {
+        "score": 87,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 9.99
+    },
+    {
+      "name": "Undertale",
+      "steam": {
+        "appid": 391540,
+        "price": 9.99,
+        "rating": 92.0,
+        "url": "https://store.steampowered.com/app/391540"
+      },
+      "amazon": {
+        "price": 37.89,
+        "url": "https://www.amazon.com/Fangamer-Undertale-NINTENDO-SWITCH-JAPANESE-REGION/dp/B07FK8CZX6/ref=sr_1_3?dib=eyJ2IjoiMSJ9.R9RZchnHPKoHNaAzI9-Jjp_geksbr98CsOjpCIUCoBn4fAtZ_CB3NRfX5aLG1RzlqVi87gYrDMt-_5QECyz5fhmSvPYDOONkdY7AxeVn3N_kz3_M47c206vONzOg3AlAeQA8is40SNvhvQfl827Kwnb6lfa0pP3supHna0xmW2yWfyJyowEWcTl-y4PSnVTsOzIjJJB3z38TGkVrg2VtY_bm6uD00L7Otn7To-N1vFc.3MAjyw3y-zWWU3XmXiSL7f--KNJVXEVD5fTBugtheqw&dib_tag=se&keywords=Undertale&qid=1763617740&s=videogames&sr=1-3"
+      },
+      "hltb": {
+        "main": "8h",
+        "main_extra": "13h",
+        "completionist": "20h"
+      },
+      "metacritic": {
+        "score": 62,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 9.99
+    },
+    {
+      "name": "PowerWash Simulator",
+      "steam": null,
+      "amazon": {
+        "price": 12.49,
+        "url": "https://www.amazon.com/PowerWash-Simulator-Nintendo-Switch-Game-Download/dp/B0C25T7YCH/ref=sr_1_1?dib=eyJ2IjoiMSJ9.NjTZb9t4Pk--p86i5g_eGus7xH_xn0bsn_lla_pQNpLZ3oZG_v0QYoPstbPC0gr362cM3hK-SlBtL-WcOkLOAK5nz-AZIEpH2Is8O7D34_g.BBms0D0kUjhqHl0Bb5uto61-S1QnAOvajcdScd7Ujj8&dib_tag=se&keywords=PowerWash+Simulator&qid=1763617740&s=videogames&sr=1-1"
+      },
+      "hltb": {
+        "main": "33h",
+        "main_extra": "50h",
+        "completionist": "75h"
+      },
+      "metacritic": {
+        "score": 53,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 12.49
+    },
+    {
+      "name": "Dark Souls II: Scholar of the First Sin",
+      "steam": {
+        "appid": 335300,
+        "price": 39.99,
+        "rating": 79.0,
+        "url": "https://store.steampowered.com/app/335300"
+      },
+      "amazon": {
+        "price": 12.6,
+        "url": "https://www.amazon.com/Dark-Souls-II-Scholar-First-Renewed/dp/B08JD5KLLY/ref=sr_1_4?dib=eyJ2IjoiMSJ9.VA4n55XveFKXFHo21jwxmtTt4SnJx9KXlpBwe_TMqReH1ftZmV6Mydqg5taoK1xCqai7r8RPIgudCpX_xebUPLbA838ZY5yHTyP-9SgU5MuKfNU-Jv3oaKQZnTN9660_nw-UtbLYKtX0vOFx2KqcczvpJCoZvs3_IqNUR3nLVBY.OwuwpMaZLQ2II_lwHYXAGJQQhjuQsvL_zmzQs5OU9Gk&dib_tag=se&keywords=Dark+Souls+II%3A+Scholar+of+the+First+Sin&nsdOptOutParam=true&qid=1763617743&s=videogames&sr=1-4"
+      },
+      "hltb": {
+        "main": "34h",
+        "main_extra": "40h",
+        "completionist": "60h"
+      },
+      "metacritic": {
+        "score": 59,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 12.6
+    },
+    {
+      "name": "BioShock 2 Remastered",
+      "steam": null,
+      "amazon": {
+        "price": 12.73,
+        "url": "https://www.amazon.com/Bioshock-2-Playstation-3-Renewed/dp/B0876GBJ11/ref=sr_1_2?dib=eyJ2IjoiMSJ9.s8kOdHMfwr34Mo1X4ptGBHEj2pStPfVCHCIq9ODqHYbPaIlgt0K5nLJEjcIo9xe1WGjQ-YVmbAHIaRkkoJATwXqxNTtYVOZr0rCbZY6R9lSDAPBdIlBDAMXBHc3iOTFlvZPipOdyG4nOBr8oozwNKg.HR_5cUOHoE-xsv6C6apDYZxzUoy9IRFmqKGx_OFGyEY&dib_tag=se&keywords=BioShock+2+Remastered&qid=1763617740&s=videogames&sr=1-2"
+      },
+      "hltb": {
+        "main": "29h",
+        "main_extra": "46h",
+        "completionist": "59h"
+      },
+      "metacritic": {
+        "score": 53,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 12.73
+    },
+    {
+      "name": "The Evil Within",
+      "steam": {
+        "appid": 268050,
+        "price": 19.99,
+        "rating": 68.0,
+        "url": "https://store.steampowered.com/app/268050"
+      },
+      "amazon": {
+        "price": 12.8,
+        "url": "https://www.amazon.com/Evil-Within-Xbox-360-Renewed/dp/B086TS2Y2D/ref=sr_1_3?dib=eyJ2IjoiMSJ9.mTG8YnG4K7_AzOFYs8x8Ds0_ebWHUWcGKzDngbhrvf1VNtrL6KqfgMseRtcujy02yNYRVHuW3nCe7qdzzcJ9BlZ6TxZzGQTKWWpeH_nZ5VTjOEB0ucGUfWckJ-BIRrbtCs5aO-5qvVUsgvu0CeuGSYamU5GjOIfqj0WDRAmn_QYQbqvwA20U9yMfqqOR6gNlRMBmGuSR3MLfMrJsGXcpTi_F3LilDAuiySsZycD-Ljs.q4JJwNNEwGpjmd1tiFqpQpTBRyyZXzJWk7pMiS9J3as&dib_tag=se&keywords=The+Evil+Within&qid=1763617744&s=videogames&sr=1-3"
+      },
+      "hltb": {
+        "main": "23h",
+        "main_extra": "26h",
+        "completionist": "46h"
+      },
+      "metacritic": {
+        "score": 52,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 12.8
+    },
+    {
+      "name": "Planet Coaster",
+      "steam": {
+        "appid": 493340,
+        "price": 44.99,
+        "rating": 84.0,
+        "url": "https://store.steampowered.com/app/493340"
+      },
+      "amazon": {
+        "price": 13.0,
+        "url": "https://www.amazon.com/Park-Beyond-PS5-PlayStation-5/dp/B0BYLVQ2D9/ref=sr_1_8?dib=eyJ2IjoiMSJ9.DusdDFHRmewA-BEw0KXvgwf7ahMOwWSsRE-ZtH-ZilepxDqWB50Bb9eUDAnLm6cFqEXEjdUpKXhN7DiAB0IzjFvBWRBwsLTlA2ocRg2XMgXIf6d5S8q8cKul-T3_NLpYa6TEkS7vM0eUeyjgCS0v-Sfx6Lp7GZAq1zxzY6mrsBpCQ0MWvjQiix5esPt4R-zZrblX3HFohipueY4kdVS5YTyjD-YLGxCJSO50C-p-rR8.HchUDMZbxr_P272ZCoXqNwmVTR_-iMqBp9QHKZha2ps&dib_tag=se&keywords=Planet+Coaster&qid=1763617743&s=videogames&sr=1-8"
+      },
+      "hltb": {
+        "main": "31h",
+        "main_extra": "40h",
+        "completionist": "49h"
+      },
+      "metacritic": {
+        "score": 60,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 13.0
+    },
+    {
+      "name": "The Sims 4",
+      "steam": {
+        "appid": 1222670,
+        "price": null,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1222670"
+      },
+      "amazon": {
+        "price": 13.29,
+        "url": "https://www.amazon.com/Sims-Vampires-Online-Game-Code/dp/B01N10COO0/ref=sr_1_7?dib=eyJ2IjoiMSJ9.EjOdBSXP_2su39LbsCCX02A2T7xqRXq0_AAixDdNhMj4rfjxKtaCEc0sfNJLdQxm55E9_I-wmoj0pU8KQcFWtQUQukKt1ZAn5xtFSJfJFYXLtYSKnWNArh_CyAYAhPW5t8j7uQ0Ytop6ZWaJlNTAHS2AjpiZgtv89rrE2DwROmiy_4Ki6s_lwz6-wqJjMvF9Unl5XyJ0-3JKdmZNM4U_lrTkLD3nD54bLetmDEksXPM.yJnMrNqQlMg8Mfr4YObuJCfZ0PmtbBCxmxnIZuYW-JI&dib_tag=se&keywords=The+Sims+4&qid=1763617742&s=videogames&sr=1-7"
+      },
+      "hltb": {
+        "main": "29h",
+        "main_extra": "44h",
+        "completionist": "60h"
+      },
+      "metacritic": {
+        "score": 73,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 13.29
+    },
+    {
+      "name": "Borderlands 3",
+      "steam": {
+        "appid": 397540,
+        "price": 59.99,
+        "rating": 81.0,
+        "url": "https://store.steampowered.com/app/397540"
+      },
+      "amazon": {
+        "price": 13.99,
+        "url": "https://www.amazon.com/Borderlands-3-Xbox-One/dp/B07Q5CHX16/ref=sr_1_7?dib=eyJ2IjoiMSJ9.JjOBAJaJvweiyQ9DgJYYWBVdB-wUkmUl2OSwgNRIZN2gGtda1WmAocanesX-wtQDx0fQIkFNqSKMhCEqZkQ-fyqt_Z31BWf5yiQ-toV0gSXoIXanvRZBIGd3rAfiKhP2Au1txCsICjt9wLt94-OmVYzRd6ROXviZAkK73ONJlSzKVeP9sshT-Ws-QybPYxQM4qZ3-ddAtKV_Ke4TexzcrOBUQ2igq3CSr5qGDvYO5eU.CTPqmQKkdc0peJuK46ms59B7N0XsM9WKY9kUSNjG13g&dib_tag=se&keywords=Borderlands+3&qid=1763617743&s=videogames&sr=1-7"
+      },
+      "hltb": {
+        "main": "32h",
+        "main_extra": "50h",
+        "completionist": "71h"
+      },
+      "metacritic": {
+        "score": 82,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 13.99
+    },
+    {
+      "name": "Nioh 2: The Complete Edition",
+      "steam": {
+        "appid": 1325200,
+        "price": 19.99,
+        "rating": 86.0,
+        "url": "https://store.steampowered.com/app/1325200"
+      },
+      "amazon": {
+        "price": 13.99,
+        "url": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzUxMjU5NDUwNTU4ODExOjE3NjM2MTc3NDQ6c3BfYnRmOjMwMDY4ODQwNTg4MjEwMjo6MDo6&url=%2FTales-Symphonia-Remastered-Xbox-One-X%2Fdp%2FB0BF61LKGP%2Fref%3Dsr_1_4_sspa%3Fdib%3DeyJ2IjoiMSJ9.eHE2XdLTBdcTAR9hvrd9upkMhBEURi312M0j-WLwzHc.AWeObOXmQ2H37qt7u0OIkCu_T1W2Kjwjbk-rfLjo_7k%26dib_tag%3Dse%26keywords%3DNioh%2B2%253A%2BThe%2BComplete%2BEdition%26qid%3D1763617744%26s%3Dvideogames%26sr%3D1-4-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1"
+      },
+      "hltb": {
+        "main": "12h",
+        "main_extra": "32h",
+        "completionist": "41h"
+      },
+      "metacritic": {
+        "score": 63,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 13.99
+    },
+    {
+      "name": "Nioh: Complete Edition",
+      "steam": {
+        "appid": 485510,
+        "price": 49.99,
+        "rating": 84.0,
+        "url": "https://store.steampowered.com/app/485510"
+      },
+      "amazon": {
+        "price": 13.99,
+        "url": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MzkyMjY3MTI3OTcyODE5OjE3NjM2MTc3NDQ6c3BfYnRmOjMwMDY4ODQwNTg4MjEwMjo6MDo6&url=%2FTales-Symphonia-Remastered-Xbox-One-X%2Fdp%2FB0BF61LKGP%2Fref%3Dsr_1_5_sspa%3Fdib%3DeyJ2IjoiMSJ9.eHE2XdLTBdcTAR9hvrd9unIrk90QUAiDGAcluWuJKP_GjHj071QN20LucGBJIEps.q3avj_Y1d2RlVZZvQam9mT3xeyqsyaVc7QizncrCcAw%26dib_tag%3Dse%26keywords%3DNioh%253A%2BComplete%2BEdition%26qid%3D1763617744%26s%3Dvideogames%26sr%3D1-5-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1"
+      },
+      "hltb": {
+        "main": "12h",
+        "main_extra": "26h",
+        "completionist": "45h"
+      },
+      "metacritic": {
+        "score": 78,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 13.99
+    },
+    {
+      "name": "Rocket League",
+      "steam": null,
+      "amazon": {
+        "price": 13.99,
+        "url": "https://www.amazon.com/Rocket-League-Collectors-Xbox-One-Renewed/dp/B08DJ7YZ7Y/ref=sr_1_4?dib=eyJ2IjoiMSJ9.WdPDT9i_d72UZAGjCfBz7mYxcPMVb99pO0lr7ZS1iTUBY05y3VtIAk7nWA8be-kXcwxS-5zPdxHyFsPmrz4GwqLB28GMDoia7gyq69C5GiHmlrKKpiksrLD1wQ0WjXfnM5kptEbHPxPD369tSmF8t7arWgv6INOL5GLiChl46yj3Yjs2P8ms_YzT5uEz-jxtVNCFO66cHWR0Wn3YmG9NPRKpQgWH3DarDayMzeIHb6g.urnWT4kbhVYXJJZ3gRq4bNmJAtznQmZmAkfB5igJWGw&dib_tag=se&keywords=Rocket+League&qid=1763617743&s=videogames&sr=1-4"
+      },
+      "hltb": {
+        "main": "13h",
+        "main_extra": "33h",
+        "completionist": "50h"
+      },
+      "metacritic": {
+        "score": 69,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 13.99
+    },
+    {
+      "name": "Deep Rock Galactic",
+      "steam": {
+        "appid": 548430,
+        "price": 29.99,
+        "rating": 85.0,
+        "url": "https://store.steampowered.com/app/548430"
+      },
+      "amazon": {
+        "price": 14.11,
+        "url": "https://www.amazon.com/Deep-Rock-Galactic-Special-Playstation-5/dp/B0CHN5N12X/ref=sr_1_1?dib=eyJ2IjoiMSJ9.PSeeUQ8aGTDNDtc6Oms_7c-eF_nbkugnQxIb6GVm_i0-qUHHXg-5jEXdpYujRwf8LYFFx2u0bAFQqY_rL-8YsQ4wwi5tNQ9cRBx4bhhwi8M.WKt3dYWp2aMyYg8D_QJnYQuztmhBcQLm2ZeVo1BPz7w&dib_tag=se&keywords=Deep+Rock+Galactic&qid=1763617740&s=videogames&sr=1-1"
+      },
+      "hltb": {
+        "main": "13h",
+        "main_extra": "25h",
+        "completionist": "43h"
+      },
+      "metacritic": {
+        "score": 52,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 14.11
+    },
+    {
+      "name": "Monster Hunter: World",
+      "steam": {
+        "appid": 582010,
+        "price": 29.99,
+        "rating": 88.0,
+        "url": "https://store.steampowered.com/app/582010"
+      },
+      "amazon": {
+        "price": 14.72,
+        "url": "https://www.amazon.com/Monster-Hunter-World-PlayStation-4-Standard/dp/B071G5HZ7F/ref=sr_1_3?dib=eyJ2IjoiMSJ9.fwwpLmjilhLn6lvzSTR_x1F6IvKDJrrlSQiAnKadcpOles8t3JqgYNGM_Z_eDlg7Uxf8dUwlfVgTjWuC6gENVKpmy-zUlglaENLby8sTEYVfq4t2a5cS6ZWaGaVxGAHyUMeKIAAUlZWMl8sWEo_fhOaIbMfHrsIBhYO7dTAFX7WIhNM7XdyAsrZIrzlEQ-OF81VI5QPW2qiOJnzbQLyYtFztvCt4gxaUFze2pu-iJCI.eDZxf2MRSbwHFpdNCFvSYfkKSKI9iOP7GFys_yE57fA&dib_tag=se&keywords=Monster+Hunter%3A+World&qid=1763617744&s=videogames&sr=1-3"
+      },
+      "hltb": {
+        "main": "36h",
+        "main_extra": "53h",
+        "completionist": "58h"
+      },
+      "metacritic": {
+        "score": 83,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 14.72
+    },
+    {
+      "name": "Car Mechanic Simulator 2021",
+      "steam": {
+        "appid": 1190000,
+        "price": 24.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1190000"
+      },
+      "amazon": {
+        "price": 14.89,
+        "url": "https://www.amazon.com/Car-Mechanic-Simulator-2014/dp/B00K2NCSJG/ref=sr_1_5?dib=eyJ2IjoiMSJ9.icEzdBbYRv55ho6BJgglBlmOSuiacP4LSxY6y7TXZx8DBMEY0xe67FYhQog7imbTrsjk5-fcg-R3PUU4PuWN7UyfyIKeMpP3o-nEtsYwH55YfV1VujAYEq4y-2z3gq7FXjawF6RKYyCIePShj7uhQw.i0CjcNC2_xKERLjFy4nmWBthiEZ7LKJR9h863DImPR4&dib_tag=se&keywords=Car+Mechanic+Simulator+2021&qid=1763617743&s=videogames&sr=1-5"
+      },
+      "hltb": {
+        "main": "22h",
+        "main_extra": "27h",
+        "completionist": "40h"
+      },
+      "metacritic": {
+        "score": 64,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 14.89
+    },
+    {
+      "name": "Cult of the Lamb",
+      "steam": {
+        "appid": 1313140,
+        "price": 24.99,
+        "rating": 82.0,
+        "url": "https://store.steampowered.com/app/1313140"
+      },
+      "amazon": {
+        "price": 14.99,
+        "url": "https://www.amazon.com/Cult-Lamb-Vol-First-Verse/dp/1637155220/ref=sr_1_1?dib=eyJ2IjoiMSJ9.k56jUyOGDc_rhieGVrLUvvVWBURErymxtRO9Pqru8DMHQ0fkAm3r1-lV5iadu8QRETGvbnYY8pHQFSqpp2b12htqncAII25SGYcCMLikO5itSu7QVcCtOjMR31ZOWDsxrt7pHkgxO1Pn2eS_H5m4RYBw7ShgN9fv6H2POPMvMElEsGviRkVj-DmwnaEkGP5lHSCaLd7ffMBwr7kpauvXXuNiL7dJ7LP88_hcMMJEqPY.WFbI2-8o_grWSgsUzdYnLdZ6gsmhOGEnTHAHwot2nhs&dib_tag=se&keywords=Cult+of+the+Lamb&qid=1763617740&s=videogames&sr=1-1-catcorr"
+      },
+      "hltb": {
+        "main": "26h",
+        "main_extra": "31h",
+        "completionist": "44h"
+      },
+      "metacritic": {
+        "score": 56,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 14.99
+    },
+    {
+      "name": "Dark Souls III",
+      "steam": {
+        "appid": 374320,
+        "price": 59.99,
+        "rating": 89.0,
+        "url": "https://store.steampowered.com/app/374320"
+      },
+      "amazon": {
+        "price": 14.99,
+        "url": "https://www.amazon.com/Dark-Souls-III-Ariandel-Digital/dp/B01LWJBBOQ/ref=sr_1_4?dib=eyJ2IjoiMSJ9.SHjJ4nly5ThgCocZT_oDj8Btt2BeXv-dz5Pmz5aWP_tpnotxuNUMHiOXOWgcMUQmHGEniqRsNw4UilyiMBNHHPC3zLwAJRCI4jFtPxUARq-mQzR2x5OaVLoD1_jHnBUNnI1A8fCSFUqlOyIAFvBx-JP87dlFRqsQ4vMX5uFCDHy-b1pr0CRyQAHzrd9zqbhZT8deNdTMp2osLPC7p9F9mcvu2yKRjjK1eA5nHq6FzZ8.diLUUtwbUMhkYcv5wakazvKP5B1N-7NUCtHu8qkp944&dib_tag=se&keywords=Dark+Souls+III&qid=1763617743&s=videogames&sr=1-4"
+      },
+      "hltb": {
+        "main": "33h",
+        "main_extra": "49h",
+        "completionist": "60h"
+      },
+      "metacritic": {
+        "score": 82,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 14.99
+    },
+    {
+      "name": "Don't Starve Together",
+      "steam": {
+        "appid": 322330,
+        "price": 14.99,
+        "rating": 83.0,
+        "url": "https://store.steampowered.com/app/322330"
+      },
+      "amazon": {
+        "price": 14.99,
+        "url": "https://www.amazon.com/Dont-Starve-Together-Standard-Nintendo/dp/B09Z3WNYP1/ref=sr_1_1?dib=eyJ2IjoiMSJ9.mSRVbs5NE_xeSyxKJW1UwGbv8LB9wBRMxiPsYBint_w.L8tGw5fFLNACmSaKhdNTMXpoR2Hu5pap5_HI2USGoEw&dib_tag=se&keywords=don%27t+starve+together&qid=1763617740&s=videogames&sr=1-1"
+      },
+      "hltb": {
+        "main": "40h",
+        "main_extra": "48h",
+        "completionist": "54h"
+      },
+      "metacritic": {
+        "score": 94,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 14.99
+    },
+    {
+      "name": "Enter the Gungeon",
+      "steam": {
+        "appid": 311690,
+        "price": 14.99,
+        "rating": 84.0,
+        "url": "https://store.steampowered.com/app/311690"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "25h",
+        "main_extra": "37h",
+        "completionist": "46h"
+      },
+      "metacritic": {
+        "score": 53,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 14.99
+    },
+    {
+      "name": "Hollow Knight",
+      "steam": {
+        "appid": 367520,
+        "price": 14.99,
+        "rating": 87.0,
+        "url": "https://store.steampowered.com/app/367520"
+      },
+      "amazon": {
+        "price": 14.99,
+        "url": "https://www.amazon.com/Hollow-Knight-Nintendo-Switch-Digital/dp/B07FCVQFHV/ref=sr_1_3?dib=eyJ2IjoiMSJ9.Dra30pkI_dMmjCmnBoDV4rTmxhYtf4gOg-8brPv-nmReGbVd4xJY1bLQ-qKu38-701SmOeYWbRB6qyccWtbQDqJSaT9O5wOxjDCq4kww72ooEqGBVZCsROrNdcn95BgH7r84bRckZKu3T5k268MozOCyzKFf5po8oC3WvdXqHCNfSWdKse-e3ZKBFRsO92eOviSQrNAkx_jF22bh4hd_26CqrIHwT1XfGlUCQIb2ne8.QIeMS0jPa889Jco0phuNCxh9zqXcqu68r636snbh9L4&dib_tag=se&keywords=Hollow+Knight&qid=1763617740&s=videogames&sr=1-3"
+      },
+      "hltb": {
+        "main": "13h",
+        "main_extra": "25h",
+        "completionist": "47h"
+      },
+      "metacritic": {
+        "score": 93,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 14.99
+    },
+    {
+      "name": "Loop Hero",
+      "steam": {
+        "appid": 1282730,
+        "price": 14.99,
+        "rating": 82.0,
+        "url": "https://store.steampowered.com/app/1282730"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "25h",
+        "main_extra": "45h",
+        "completionist": "52h"
+      },
+      "metacritic": {
+        "score": 74,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 14.99
+    },
+    {
+      "name": "Outer Wilds",
+      "steam": {
+        "appid": 753640,
+        "price": 14.99,
+        "rating": 85.0,
+        "url": "https://store.steampowered.com/app/753640"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "4h",
+        "main_extra": "23h",
+        "completionist": "46h"
+      },
+      "metacritic": {
+        "score": 59,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 14.99
+    },
+    {
+      "name": "Resident Evil 2",
+      "steam": {
+        "appid": 883710,
+        "price": 14.99,
+        "rating": 89.0,
+        "url": "https://store.steampowered.com/app/883710"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "18h",
+        "main_extra": "28h",
+        "completionist": "48h"
+      },
+      "metacritic": {
+        "score": 67,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 14.99
+    },
+    {
+      "name": "Resident Evil 3",
+      "steam": {
+        "appid": 952060,
+        "price": 14.99,
+        "rating": 77.0,
+        "url": "https://store.steampowered.com/app/952060"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "25h",
+        "main_extra": "45h",
+        "completionist": "56h"
+      },
+      "metacritic": {
+        "score": 76,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 14.99
+    },
+    {
+      "name": "Resident Evil Village",
+      "steam": {
+        "appid": 1196590,
+        "price": 14.99,
+        "rating": 83.0,
+        "url": "https://store.steampowered.com/app/1196590"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "35h",
+        "main_extra": "48h",
+        "completionist": "57h"
+      },
+      "metacritic": {
+        "score": 76,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 14.99
+    },
+    {
+      "name": "Stardew Valley",
+      "steam": {
+        "appid": 413150,
+        "price": 14.99,
+        "rating": 89.0,
+        "url": "https://store.steampowered.com/app/413150"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "24h",
+        "main_extra": "32h",
+        "completionist": "57h"
+      },
+      "metacritic": {
+        "score": 50,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 14.99
+    },
+    {
+      "name": "The Binding of Isaac: Rebirth",
+      "steam": {
+        "appid": 250900,
+        "price": 14.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/250900"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "17h",
+        "main_extra": "28h",
+        "completionist": "40h"
+      },
+      "metacritic": {
+        "score": 89,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 14.99
+    },
+    {
+      "name": "Human: Fall Flat",
+      "steam": {
+        "appid": 477160,
+        "price": 19.99,
+        "rating": 70.0,
+        "url": "https://store.steampowered.com/app/477160"
+      },
+      "amazon": {
+        "price": 15.47,
+        "url": "https://www.amazon.com/Human-Fall-Flat-Anniversary-Xbox-X/dp/B09F9HP8SR/ref=sr_1_1?dib=eyJ2IjoiMSJ9.A6XbN0EO8sqU8Ec1AXrF5vHASpznash-okwEf7dyYqejA--KJtcXmseuMLv6NVsJdyZJNw15VVceJA7on6TY7F0XxoYmPj-pitLMjsMiXOsv4qM35AQSCPmxSPJ2Y0I9jmJ7hhBZRauAYz5oEy9A0UJHxbb4GqPAL86VfP_r6UgOpRfStDp58qd4YAS_9PtFavJAE5QfStloXlxuuv7JRig22Jv1xqFBhjdHLWtTWZY.hBqndFGIln1kDk5rIh5t114DCwuxBmV1G7PkUPZrvW8&dib_tag=se&keywords=Human%3A+Fall+Flat&qid=1763617740&s=videogames&sr=1-1"
+      },
+      "hltb": {
+        "main": "14h",
+        "main_extra": "34h",
+        "completionist": "46h"
+      },
+      "metacritic": {
+        "score": 64,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 15.47
+    },
+    {
+      "name": "Gang Beasts",
+      "steam": {
+        "appid": 285900,
+        "price": 19.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/285900"
+      },
+      "amazon": {
+        "price": 15.66,
+        "url": "https://www.amazon.com/Gang-Beasts-PlayStation-4/dp/B07YLH7K3J/ref=sr_1_2?dib=eyJ2IjoiMSJ9.fczsv0Z6whsK59_PtpopWk_KUZeG4oTf5DdbI5xiTd5VWJgfTUx1xkj7lB2hoWB7PL0AyCctzgmqoceUQoSf3xxcyRScLfarSL06Q4x4woNH7DH84htsgO_-Ov4IEZ1Lwa4vEqtbL7TPuxPDbekHS2E_m7xMIq5VucF8B7E5MpymJLQCBVC439wBtvJwLyspFqZD_FrJYvMelwhwgA4aRWEwIKnFsWVq4wJ037845fA.jm7-Wi0kXPFJBgBKJuaN0oYAls2igWxP2bnxaU7CKbM&dib_tag=se&keywords=Gang+Beasts&qid=1763617740&s=videogames&sr=1-2"
+      },
+      "hltb": {
+        "main": "38h",
+        "main_extra": "46h",
+        "completionist": "57h"
+      },
+      "metacritic": {
+        "score": 53,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 15.66
+    },
+    {
+      "name": "Path of Exile",
+      "steam": {
+        "appid": 238960,
+        "price": null,
+        "rating": 86.0,
+        "url": "https://store.steampowered.com/app/238960"
+      },
+      "amazon": {
+        "price": 15.96,
+        "url": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MzQxMjgxMTAzMzI2OTkyOjE3NjM2MTc3NDE6c3BfbXRmOjMwMDU1OTQ1MDYwNzkwMjo6MDo6&url=%2FShadows-Awakening-Xbox-One%2Fdp%2FB07D2LGY25%2Fref%3Dsr_1_4_sspa%3Fdib%3DeyJ2IjoiMSJ9.2ySrZtHScGT4WZGWaeoQolkNFUREr8JkqkUcmf5DZfvGjHj071QN20LucGBJIEps.-PMX1I8LPAXkHLDhsW3TfjK4yHnBDedKFe8yNjyjvUQ%26dib_tag%3Dse%26keywords%3DPath%2Bof%2BExile%26qid%3D1763617740%26s%3Dvideogames%26sr%3D1-4-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1"
+      },
+      "hltb": {
+        "main": "9h",
+        "main_extra": "24h",
+        "completionist": "33h"
+      },
+      "metacritic": {
+        "score": 82,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 15.96
+    },
+    {
+      "name": "NieR: Automata",
+      "steam": {
+        "appid": 524220,
+        "price": 15.99,
+        "rating": 84.0,
+        "url": "https://store.steampowered.com/app/524220"
+      },
+      "amazon": {
+        "price": 22.48,
+        "url": "https://www.amazon.com/NieR-Automata-Game-YoRHa-playstation-4/dp/B07LB7QDD2/ref=sr_1_2?dib=eyJ2IjoiMSJ9.oiHrhKeX1xtzqPgfw1joaLcdu7vgr8Z_IoWWAdMVm36gpIb2jKiS14Qnc8nfqMPmYoXQiIUZiXWpDNoUQcaBhxUOYQDWB-dZYBJlJdWqGpYdEaz8F4rwMuCvOrf0KqJFX7PAlkAKwxxDsFrFGDcyyI_YauQukPT3CE4AE-jhSrLC1nbdMSeuR-nvOxIdqLOQmOVBkqvs3Zze_jv7QEk8jNuqOCrEr_xpR_A1yiCSNKw.BY_GgDRC_IGaz9CHQ46sVo-i1nXHA1eFUZrICxW34OQ&dib_tag=se&keywords=NieR%3A+Automata&qid=1763617744&s=videogames&sr=1-2"
+      },
+      "hltb": {
+        "main": "17h",
+        "main_extra": "35h",
+        "completionist": "50h"
+      },
+      "metacritic": {
+        "score": 63,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 15.99
+    },
+    {
+      "name": "Yakuza: Like a Dragon",
+      "steam": {
+        "appid": 1235140,
+        "price": 19.99,
+        "rating": 83.0,
+        "url": "https://store.steampowered.com/app/1235140"
+      },
+      "amazon": {
+        "price": 16.9,
+        "url": "https://www.amazon.com/Yakuza-Like-Dragon-PlayStation-5/dp/B08VJNMWR8/ref=sr_1_1?dib=eyJ2IjoiMSJ9.HaVG5pJGvJ78uOwnH5c_qjl-ocxddlwbmXL96x0fm7mcNYdpoaSxPlHE1T7epj5lMGVJKI0kf7JRr6P9q8X_IGfuvgmrv7uIKtzLeMC17X2fJhMemMOldCwIc3cCRsTZAmx6kJoBw5uTBaXdEpz7qS9CHw1J_Ivb-mYCchXB0thWSMz4xrQ1ICTsaAAp-po1t1CIBDAY5ASrKNwDPB21mfaE3XkvFXalu_KZSKPoht8.BVwl9LbzNV7sDraTu7H47sxMsbccVybh9yq0JQsaUz8&dib_tag=se&keywords=Yakuza%3A+Like+a+Dragon&qid=1763617745&s=videogames&sr=1-1"
+      },
+      "hltb": {
+        "main": "23h",
+        "main_extra": "38h",
+        "completionist": "47h"
+      },
+      "metacritic": {
+        "score": 72,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 16.9
+    },
+    {
+      "name": "Forza Horizon 4",
+      "steam": null,
+      "amazon": {
+        "price": 16.97,
+        "url": "https://www.amazon.com/Forza-Motorsport-4-Xbox-360-Renewed/dp/B07VT9QL13/ref=sr_1_8?dib=eyJ2IjoiMSJ9.naS2B26M6XKSk9VukD1yEXvS7qb2gM59vRXkAu-OhRlkLeUHSSmlxL2IyDqIAtQafwvuqFAc-FgWt9gDkzYEzThv4Wl56beYdfdQZI_n2D9frm_Zu00kGYmAi5tJouBG6yxR76RnMLz_ZyH-M3o5mX85uMNlN3rjhYiyH_Ao0p9JN1xDkSMMAAupVqKIXnx7JkoNE7z7DlJgvc0YyeiECc4vgqBxsy6J8wDgJF0Ctwg.LBOoFrfaoGPL5TOIt_9EM4UBYQPQ77uG8nPaX5JU6cM&dib_tag=se&keywords=Forza+Horizon+4&qid=1763617742&s=videogames&sr=1-8"
+      },
+      "hltb": {
+        "main": "35h",
+        "main_extra": "37h",
+        "completionist": "49h"
+      },
+      "metacritic": {
+        "score": 57,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 16.97
+    },
+    {
+      "name": "Elden Ring",
+      "steam": {
+        "appid": 1245620,
+        "price": 59.99,
+        "rating": 94.0,
+        "url": "https://store.steampowered.com/app/1245620"
+      },
+      "amazon": {
+        "price": 16.99,
+        "url": "https://www.amazon.com/Elden-Ring-Greatsword-Collection-Decoration/dp/B0D52F8BGF/ref=sr_1_9?dib=eyJ2IjoiMSJ9.BZN8x2smydWuxuB_2o5o9MnuGeAzmW3VxxJKkUUqp63RqZeF8BpZbVnNWCBet8zGtO1AR5h4ZdY45zDDsW623Z7sHIpNfeKYBmeu9S9E8DX0-aY8ZC2hObHx5L5BfzppU_aAsVM4HcnupL2zONnQ2fOvFMLpJ9EITa2Kv6TDzRJron6z_E6Sv75zMfZU1pAkAKjkVMYuDwlJm42H5E4aioAuAyTkExylAPrvmXsgJi4.3HUyXyfckOHTbG4WecWyBFONgXvevgGluDombSDJu5E&dib_tag=se&keywords=Elden+Ring&qid=1763617744&s=videogames&sr=1-9"
+      },
+      "hltb": {
+        "main": "34h",
+        "main_extra": "41h",
+        "completionist": "55h"
+      },
+      "metacritic": {
+        "score": 91,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 16.99
+    },
+    {
+      "name": "Grand Theft Auto V",
+      "steam": {
+        "appid": 3240220,
+        "price": 29.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/3240220"
+      },
+      "amazon": {
+        "price": 16.99,
+        "url": "https://www.amazon.com/Grand-Theft-Auto-PlayStation-sony-playstation3/dp/B07TWN9TJT/ref=sr_1_8?dib=eyJ2IjoiMSJ9.vPKNeTiixjwubRd-b1LurTtiowTXdZuYNWg28ZQUQ4IfUEasN7P8WZe6pX7fF6SB_URH74teEADzARvE2iQeDDsSbySAuRYIELpfeqL6_hU4bAAKrJXIIb85qA4Ymi2hUX5MZbV3HCI7rFg0ayECvFhinNHqRW9mJb2HWA0vi0dlKaCNquwIo_x8aXlInPwBoh1yD2TaLnI2gwQjAhl-Br2N7I6vPaFb1oTCymrBTa4.7P3m423xvk2tc8TBe4kbA950J8eoCbvnc2NSnjayBsM&dib_tag=se&keywords=Grand+Theft+Auto+V&qid=1763617740&s=videogames&sr=1-8"
+      },
+      "hltb": {
+        "main": "21h",
+        "main_extra": "34h",
+        "completionist": "45h"
+      },
+      "metacritic": {
+        "score": 76,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 16.99
+    },
+    {
+      "name": "Need for Speed Unbound",
+      "steam": {
+        "appid": 1846380,
+        "price": 69.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1846380"
+      },
+      "amazon": {
+        "price": 17.89,
+        "url": "https://www.amazon.com/Need-Speed-Unbound-PlayStation-5/dp/B0BHF4XXK5/ref=sr_1_1?dib=eyJ2IjoiMSJ9.Tg1MAjPwIsK14Wnx3AY0Y1WNAygGhh5v44qjvugSSQ9RcCXOK_ltt5r3P4IMn-cKpkXcZA8v4pjNfgVEikKvvGKmfx0769VFh5nWFNDc7aAjy1qt_pMI1eF-qxp7OSUsssPmdijs71PEvt4zTfQAQ9j_MjrH3GEGmmrIxpJ0i43rnll4DmIYis2nkRfexcCkRkNxhOlYysM6t71BCXUepfG7-h8QUgFZ125DwrbwDEo.WukaKVoZAp7rp9BnoLmm3XiEYMjByjlZaIAhD6uX0rk&dib_tag=se&keywords=Need+for+Speed+Unbound&qid=1763617744&s=videogames&sr=1-1"
+      },
+      "hltb": {
+        "main": "26h",
+        "main_extra": "29h",
+        "completionist": "54h"
+      },
+      "metacritic": {
+        "score": 83,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 17.89
+    },
+    {
+      "name": "House Flipper",
+      "steam": {
+        "appid": 613100,
+        "price": 24.99,
+        "rating": 67.0,
+        "url": "https://store.steampowered.com/app/613100"
+      },
+      "amazon": {
+        "price": 17.95,
+        "url": "https://www.amazon.com/House-Flipper-Pets-PS4-PlayStation-4/dp/B0C6FQMPTG/ref=sr_1_5?dib=eyJ2IjoiMSJ9.FO84NhpCxC1RgD7HVXGzlG1UYFVXz5vyg34kyD3-soegPulMgvQV2C_dZhbhYB02fQz2JoKsreHtsqfMkftquP7j1ei9sTT1VtLkiuguQ3gU7PnREc0HSF3n_jPU3OcvT2A4ij0aI9auz8GLAGkyoFo-5FgAtKPA3kNYwx_ZQ-Ky1aNtWbVeeAu_z5ObU_4a7B-lUweN-KzTRw2y1J5LasigjjFYsJ_PryFH51Yh8GQ.BDX6oAbE_N44dbB4_QpPsDvUNWZ_S2SBxxB6mSNU4GM&dib_tag=se&keywords=House+Flipper&qid=1763617743&s=videogames&sr=1-5"
+      },
+      "hltb": {
+        "main": "5h",
+        "main_extra": "17h",
+        "completionist": "37h"
+      },
+      "metacritic": {
+        "score": 74,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 17.95
+    },
+    {
+      "name": "Slime Rancher 2",
+      "steam": {
+        "appid": 1657630,
+        "price": 17.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1657630"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "24h",
+        "main_extra": "37h",
+        "completionist": "44h"
+      },
+      "metacritic": {
+        "score": 70,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 17.99
+    },
+    {
+      "name": "Two Point Hospital",
+      "steam": {
+        "appid": 535930,
+        "price": 29.99,
+        "rating": 83.0,
+        "url": "https://store.steampowered.com/app/535930"
+      },
+      "amazon": {
+        "price": 18.0,
+        "url": "https://www.amazon.com/Two-Point-Campus-Enrolment-Nintendo-Switch/dp/B09R86QQZB/ref=sr_1_5?dib=eyJ2IjoiMSJ9.V3HCPvFp30eCvbz9m7ABrlUH16rvDLDo8WXmwDG2EAR3R_d3mo-t7m2VVnOgQ1TdTB_0BhMQVh0Wa4xAktcUfgSYiI_0RG03sSaz5IITNy8O0lg5MqGagKt0fEhbm8d43QGZ_k7qlrW1tovfPea44YFSj1d_KJlPuRo6zeQqb3529Abx5iPlKxcVKoknFBmRwezwmGu94Gqa7AJlMfpF76hZEnJaNRNCdYM5eKt-YdM.fhABAxJafh240FZKJA6G-fpLSOs3izvWoZ6aTJG7fKs&dib_tag=se&keywords=Two+Point+Hospital&qid=1763617743&s=videogames&sr=1-5"
+      },
+      "hltb": {
+        "main": "24h",
+        "main_extra": "40h",
+        "completionist": "56h"
+      },
+      "metacritic": {
+        "score": 68,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 18.0
+    },
+    {
+      "name": "Kingdom Hearts III",
+      "steam": {
+        "appid": 2552450,
+        "price": 29.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/2552450"
+      },
+      "amazon": {
+        "price": 18.95,
+        "url": "https://www.amazon.com/Kingdom-Hearts-III-PlayStation-4/dp/B00DBF81JS/ref=sr_1_1?dib=eyJ2IjoiMSJ9.Sizu8gsHo5ePYUQ9geQYu9_UB6N7gzcvPCuHQROmquUjGQpRciv5YaTFJdmVdhEHTvlYLNg33jvTf7IL3b9p1wGu8iomo-DasynOm2m_C_qMAp26H4tkiM5L16_FA6C7WsKKYeDcKSbSFTBNho3M9oeQamcPE1zarrXI3etFeF10TO8MeDggolLn5702ZUdtz4cM48j0DZ-CRta8EkDO75udkjziSAO9XypFKHI-kWw.6E4pSjPmIKaNIjuHBgLmqfSGRElYLNlzh63ZViAx8Rg&dib_tag=se&keywords=Kingdom+Hearts+III&qid=1763617741&s=videogames&sr=1-1"
+      },
+      "hltb": {
+        "main": "7h",
+        "main_extra": "14h",
+        "completionist": "31h"
+      },
+      "metacritic": {
+        "score": 50,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 18.95
+    },
+    {
+      "name": "Mafia II: Definitive Edition",
+      "steam": {
+        "appid": 1030830,
+        "price": 29.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1030830"
+      },
+      "amazon": {
+        "price": 18.97,
+        "url": "https://www.amazon.com/Apostrophe-Games-Mafia-Party-Deluxe/dp/B07D97V536/ref=sr_1_4?dib=eyJ2IjoiMSJ9.AAwMaefGKJzHDBxWHd62U7TmeSThR1_Y57ZuLyhlNwl202MMef4HH6v-0LbMY21eWHTEa5xifvw9B8BYkRZFp5GxJKFGKsxf_S56YhTxTA4SiDlM3aRIlbeoePBzf4wb6EkuJ9uXs-BuP5hnNu5uwA.qPsoo5j_ifyc8EQXE4gaV-ufxsTVCnEd2cbk4nOYEzg&dib_tag=se&keywords=Mafia+II%3A+Definitive+Edition&qid=1763617740&s=videogames&sr=1-4-catcorr"
+      },
+      "hltb": {
+        "main": "17h",
+        "main_extra": "36h",
+        "completionist": "50h"
+      },
+      "metacritic": {
+        "score": 83,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 18.97
+    },
+    {
+      "name": "Dave the Diver",
+      "steam": {
+        "appid": 1868140,
+        "price": 19.99,
+        "rating": 90.0,
+        "url": "https://store.steampowered.com/app/1868140"
+      },
+      "amazon": {
+        "price": 19.18,
+        "url": "https://www.amazon.com/You-Suck-at-Parking-Nintendo-Switch/dp/B0BFKKG2WL/ref=sr_1_7?dib=eyJ2IjoiMSJ9.60_Mqu4w9Szvb3SwxEtPWqNiurMHuc6KV9afYICR3wDtVenezIp0U1NazGAIxwnZg8IuvgCb7JZjURW8XhcAdYVj53lXEQE799pWxT65I0gGcd7UnCVkEF8nK2AL82AfnpSTCJl2nvDfxf8HNzS6Yhc2X5aw0pwZS-X3b1DMA8hr9Zd8RG-E8cgXGjxShHp3eEy8Y-HUCn1JOum2omVtJQ.bVTwEMDWU8dHitPYMT7sbX2ZyRKVxcghlGYPvMrLh4w&dib_tag=se&keywords=Dave+the+Diver&qid=1763617740&s=videogames&sr=1-7"
+      },
+      "hltb": {
+        "main": "26h",
+        "main_extra": "36h",
+        "completionist": "50h"
+      },
+      "metacritic": {
+        "score": 88,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 19.18
+    },
+    {
+      "name": "Dredge",
+      "steam": {
+        "appid": 1562430,
+        "price": 24.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1562430"
+      },
+      "amazon": {
+        "price": 19.19,
+        "url": "https://www.amazon.com/Dredge-Deluxe-Playstation-5/dp/B0BWNFBGQR/ref=sr_1_3?dib=eyJ2IjoiMSJ9.rSW7_Nh-ZY7Fyq4QKP_SyvF8JWn9q4UzzmZY-fJPUe2y_vqUY_zTvwU3xs-uzb5FBHTRlIqTAx2sP9FJauxcZbbB2KDc8OoSgjQ3SIzj34rXfuoqG6shJ4E3DPdDFce3losdy7z374GQED8UZFFXvLvhqYnmixzizfS8nn_KHrfclJgmvmpHwOZJ6WHVnTZQWpVojcf68-sH8yEG2Tv7UTn942uoqNNVlHtVnWlHMB4.4WLJDS20HTMnCTxVclDbWHFLaYl9BcZeWWbobA4qQyI&dib_tag=se&keywords=Dredge&qid=1763617740&s=videogames&sr=1-3"
+      },
+      "hltb": {
+        "main": "8h",
+        "main_extra": "15h",
+        "completionist": "23h"
+      },
+      "metacritic": {
+        "score": 94,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 19.19
+    },
+    {
+      "name": "Planet Zoo",
+      "steam": {
+        "appid": 703080,
+        "price": 44.99,
+        "rating": 81.0,
+        "url": "https://store.steampowered.com/app/703080"
+      },
+      "amazon": {
+        "price": 19.51,
+        "url": "https://www.amazon.com/Lets-Build-Zoo-PlayStation-5/dp/B0B7W66C86/ref=sr_1_6?dib=eyJ2IjoiMSJ9.bNzNhRWRncnWDYSQ4WzYyVHX8BTUOW3QnmBwTGQvceG-YQJMtFhWY4a2OeLJKbTvN6GEPJen-BoZuKLk5ro4uSSGDTVV6I_u1LJa6nXKna9pGxyzE1-enZ3uTZvLvnkCxmbO9t0S7AR_zZVTUgs-fvOWh3C_MycQebp1q_OLZL83rpz64LLyyMG6acO2jk9t8lbrCzjOJbBtYFXX1-OzYQB_ijiCqPP-7IZEJbeoU-Y.5pYcQ0-h2Ut8ciy01C6AlSnsxvpJUUwLFDeRpu5o8GA&dib_tag=se&keywords=Planet+Zoo&qid=1763617743&s=videogames&sr=1-6"
+      },
+      "hltb": {
+        "main": "29h",
+        "main_extra": "42h",
+        "completionist": "59h"
+      },
+      "metacritic": {
+        "score": 82,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 19.51
+    },
+    {
+      "name": "Call of Duty: Black Ops III",
+      "steam": {
+        "appid": 311210,
+        "price": 19.79,
+        "rating": 73.0,
+        "url": "https://store.steampowered.com/app/311210"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "11h",
+        "main_extra": "31h",
+        "completionist": "45h"
+      },
+      "metacritic": {
+        "score": 67,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.79
+    },
+    {
+      "name": "Darkest Dungeon",
+      "steam": {
+        "appid": 262060,
+        "price": 24.99,
+        "rating": 84.0,
+        "url": "https://store.steampowered.com/app/262060"
+      },
+      "amazon": {
+        "price": 19.83,
+        "url": "https://www.amazon.com/Darkest-Dungeon-II-PlayStation-5/dp/B0DBNBVHQ2/ref=sr_1_2?dib=eyJ2IjoiMSJ9.2DTT4fZcB49oL1ZKMGdTYFTXJojp-YDVtpURu0BuhRa28Shxy453-ORn9wj923_Vb2FZR8W6Z8GWjHhseZa8FVVcz0neRIptUPWIDkmDiyEcPqCWmRwezn3wk0KU0JKvypO9NKVwR0jyfbOWrSHpi8Jv0lWFhuWhvuy8U-EPWQ8XxHAQA3VRjpgO40NhAXH5Tszcq4qTSEdcRbhOq_CW8Cp6djifdT171fAEeAzSzLA.dLup8zmZ9JTFxORDU8Hc_PPYQZfAtiDRomjkuIq291o&dib_tag=se&keywords=Darkest+Dungeon&qid=1763617740&s=videogames&sr=1-2"
+      },
+      "hltb": {
+        "main": "36h",
+        "main_extra": "50h",
+        "completionist": "55h"
+      },
+      "metacritic": {
+        "score": 83,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 19.83
+    },
+    {
+      "name": "Diablo IV",
+      "steam": {
+        "appid": 2344520,
+        "price": 24.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/2344520"
+      },
+      "amazon": {
+        "price": 19.84,
+        "url": "https://www.amazon.com/Diablo-IV-PlayStation-5/dp/B0BPPPPYK7/ref=sr_1_1?dib=eyJ2IjoiMSJ9.q6uwxx495J0zdvlMaw0eYtr2Rjx_Iq3rzI8l3KlgYmTMINqcG9n7O6gRZVoKaepY_47H5Le9O5DBpfJePrCDXcKPfdZ4g3ybbj0g8LkilaCPjx33-CCAiSiklDNHsFARwMFTWNioLvdP-rtr97ALG0qgPAjPduuv_ITKbvCEZzY77y-iXHfEez5xZzER3M1Qo_WX_YyYivWAQqWoQwYZJ0rO4RIJ8YMi-z09iUxKA3c.O99rvT1biGGTaiNg4xW7Bi4dQBzcnLTueTo3miiIoy4&dib_tag=se&keywords=Diablo+IV&qid=1763617740&s=videogames&sr=1-1"
+      },
+      "hltb": {
+        "main": "7h",
+        "main_extra": "26h",
+        "completionist": "34h"
+      },
+      "metacritic": {
+        "score": 54,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 19.84
+    },
+    {
+      "name": "Mafia III: Definitive Edition",
+      "steam": {
+        "appid": 360430,
+        "price": 29.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/360430"
+      },
+      "amazon": {
+        "price": 19.86,
+        "url": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4OTg1MzQ2NTg3MDIzMDUxOjE3NjM2MTc3NDA6c3BfYnRmOjMwMDg3NzE1NTA4OTkwMjo6MDo6&url=%2FMafia-II-Renewed-Xbox-360%2Fdp%2FB082N15MMP%2Fref%3Dsr_1_7_sspa%3Fdib%3DeyJ2IjoiMSJ9.9FyVHlqpmmSYR1XFmWft4iozkJmHwh3rsW2napBv4HDtRj7ch0OxW5ajNStobP1bEQmmp_dx9jtN9wcZjuDEyA.L-da73UCwhTmjWM2qgBCY_7FdkQeTtMcJt7vY5gtad4%26dib_tag%3Dse%26keywords%3DMafia%2BIII%253A%2BDefinitive%2BEdition%26qid%3D1763617740%26s%3Dvideogames%26sr%3D1-7-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1"
+      },
+      "hltb": {
+        "main": "36h",
+        "main_extra": "53h",
+        "completionist": "73h"
+      },
+      "metacritic": {
+        "score": 54,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 19.86
+    },
+    {
+      "name": "Celeste",
+      "steam": {
+        "appid": 504230,
+        "price": 19.99,
+        "rating": 88.0,
+        "url": "https://store.steampowered.com/app/504230"
+      },
+      "amazon": {
+        "price": 19.88,
+        "url": "https://www.amazon.com/Celeste-Nintendo-Switch-Digital-Code/dp/B079Z1LPSP/ref=sr_1_2?dib=eyJ2IjoiMSJ9.HLrcWdG-AChhoBj3VTKbwRUf0jx6MUuNJbQwOMR5at13sBGv-aDKiV5EKVUe-L1425_2gKFVb7efOBLne--tOmLwc4N3_2wRZCXZT2ILeNMRnrWAGyT_HZVautoGwl8ZMdinDeRX_JclxlvxLgNk7uIeHy23sIXDfpz8GUXn1R-260NvQHMYpr5sQ5nSirm0dHjBvrpLVeIMuojiZXsqHWEPzgwo6us-Ah-fpSYCJ28.JTnMHgTTxr6et_9MYEAYxSl1U6VMAiot1rzSjupFwbE&dib_tag=se&keywords=Celeste&qid=1763617740&s=videogames&sr=1-2"
+      },
+      "hltb": {
+        "main": "9h",
+        "main_extra": "20h",
+        "completionist": "37h"
+      },
+      "metacritic": {
+        "score": 75,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 19.88
+    },
+    {
+      "name": "Persona 4 Golden",
+      "steam": {
+        "appid": 1113000,
+        "price": 19.99,
+        "rating": 87.0,
+        "url": "https://store.steampowered.com/app/1113000"
+      },
+      "amazon": {
+        "price": 19.88,
+        "url": "https://www.amazon.com/Persona-Golden-Standard-Nintendo-Digital/dp/B0BTKSWYG2/ref=sr_1_1?dib=eyJ2IjoiMSJ9.g61jx_v4EX1zzPRXtzsPdpwuYdkPGvgsXt6QFsQBDlagKck8vWv8iPGMWh0hviUKD67S-n9-PgsWaB5tM3t7oY_YXuejJy4DKrenE3xEIQ1mrQV67_yGeYGBCNizpnewVi-N37gaZhWFGhbPxeepRDUtOcYam0OMTMAhlRonxXdTqZs86Pb3tilF46vGNuSoKRzIUeVtw7sCfNWY2rmLfHlD29kWIbi05o9WFHFcBhg.F2tOH6-6xONhdmFCnxXBaygJOUjwm3MmMxaTVeVqqu0&dib_tag=se&keywords=Persona+4+Golden&qid=1763617745&s=videogames&sr=1-1"
+      },
+      "hltb": {
+        "main": "20h",
+        "main_extra": "29h",
+        "completionist": "44h"
+      },
+      "metacritic": {
+        "score": 56,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 19.88
+    },
+    {
+      "name": "EA SPORTS WRC",
+      "steam": {
+        "appid": 1849250,
+        "price": 49.99,
+        "rating": 80.0,
+        "url": "https://store.steampowered.com/app/1849250"
+      },
+      "amazon": {
+        "price": 19.9,
+        "url": "https://www.amazon.com/WRC-10-PlayStation-5/dp/B096758LNP/ref=sr_1_4?dib=eyJ2IjoiMSJ9.MbyT6vzeLfxY48XOnZu55zxCJwTj_uMjOfPnmjhYfLmaGGvDZ-vjCHzDKJ-Zl3ZpH6QdV4NIwqGbv86-XEejCw.vON0MFSYQTPFJjGrT-gfxePUt1ygwVW5viwXRrW2Ky0&dib_tag=se&keywords=EA+SPORTS+WRC&qid=1763617744&s=videogames&sr=1-4"
+      },
+      "hltb": {
+        "main": "10h",
+        "main_extra": "18h",
+        "completionist": "31h"
+      },
+      "metacritic": {
+        "score": 70,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 19.9
+    },
+    {
+      "name": "Final Fantasy XVI",
+      "steam": {
+        "appid": 2515020,
+        "price": 24.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/2515020"
+      },
+      "amazon": {
+        "price": 19.93,
+        "url": "https://www.amazon.com/Final-Fantasy-XVI-PlayStation-5/dp/B0BPMTJJ6D/ref=sr_1_1?dib=eyJ2IjoiMSJ9.SQnTDuUz6AEuYikZqWxzy8m3wNBeWNu6OPK1-KUHg0vh2SJhv9V3gN0EjEUMemToaKn5W1q1vCQq00poWbhQO9cDs_8tR0vkzXpOHMNhqbdheDLfwbZW8bNTtBfNZI-yE__b5VwkM2mktQH5wlC-nT_K1fZ9vUUeyKvg1b5V97Djegl0J-9Fk0Swi2KK6xBniDV3hPGSOYJTxVlmojUgPRB8mkBdSJQKiDlfWie2Eyg.jEaZhOpnyk-TY0ZSh5QH4KaagT3zELJgEHawPWcyL0M&dib_tag=se&keywords=Final+Fantasy+XVI&qid=1763617740&s=videogames&sr=1-1"
+      },
+      "hltb": {
+        "main": "11h",
+        "main_extra": "15h",
+        "completionist": "26h"
+      },
+      "metacritic": {
+        "score": 80,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 19.93
+    },
+    {
+      "name": "American Truck Simulator",
+      "steam": {
+        "appid": 270880,
+        "price": 19.99,
+        "rating": 76.0,
+        "url": "https://store.steampowered.com/app/270880"
+      },
+      "amazon": {
+        "price": 34.39,
+        "url": "https://www.amazon.com/American-Simulator-Gearshift-Compatible-Thrustmaster-PC/dp/B0DD423497/ref=sr_1_9?dib=eyJ2IjoiMSJ9.-KW-y4bVgfmpa1PzmeD5j3cBxzVUxy1PwRmFl562fiWwf4qdvEmSCiQ5YSgnt78QZD_cqfmEGtlCRSRHUncM4HLocKlZnslzxK2usZbAszXwnVF1TN0BaFjWbfAq_pXG96JfzH9RhgMADEXwxZmtBxKDPWmcmtEQwwphUrozmQm-yXTEqn4Zs_b5iZd0VFYSJ6H6Iw18mifMUnt3TH-lszKieDesGRQkPycVRPd4dJo.50OlYdeTQhCxNsKHPC4OboVb8qE1GxQT9QNsMjYtWl0&dib_tag=se&keywords=American+Truck+Simulator&qid=1763617743&s=videogames&sr=1-9"
+      },
+      "hltb": {
+        "main": "34h",
+        "main_extra": "53h",
+        "completionist": "78h"
+      },
+      "metacritic": {
+        "score": 71,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Bayonetta",
+      "steam": {
+        "appid": 460790,
+        "price": 19.99,
+        "rating": 90.0,
+        "url": "https://store.steampowered.com/app/460790"
+      },
+      "amazon": {
+        "price": 30.31,
+        "url": "https://www.amazon.com/Bayonetta-2-Nintendo-Wii-U-Renewed/dp/B07XQK8N5Z/ref=sr_1_10?dib=eyJ2IjoiMSJ9.4fnPgnGiPb68CPOqSuFy6nsef7crAKIAA3FVrGvlK5j6WbaePM26c5YDyUI62NyvUn3O4_6NW3x7YcF3TrHYvWGT-6v5sFemFyom5gv7vdepm0n09WkDysL7Gyzfh_oH47kSEWIol19Dt9SzC4dkgCQY61zELiCfortPlcf0wUEHUFKWM92CKl_8kivUdNvT-xMTeaDX6dS4zS_uSYOf5NfE3xMJ21NFp-qKAWKPPD8.8SXN2CBMKnYhLxlNjy8JVm_S58yU5hrt_Vfzlc1F29g&dib_tag=se&keywords=Bayonetta&qid=1763617744&s=videogames&sr=1-10"
+      },
+      "hltb": {
+        "main": "11h",
+        "main_extra": "29h",
+        "completionist": "44h"
+      },
+      "metacritic": {
+        "score": 90,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Dyson Sphere Program",
+      "steam": {
+        "appid": 1366540,
+        "price": 19.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1366540"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "9h",
+        "main_extra": "15h",
+        "completionist": "30h"
+      },
+      "metacritic": {
+        "score": 80,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Euro Truck Simulator 2",
+      "steam": {
+        "appid": 227300,
+        "price": 19.99,
+        "rating": 79.0,
+        "url": "https://store.steampowered.com/app/227300"
+      },
+      "amazon": {
+        "price": 28.49,
+        "url": "https://www.amazon.com/Road-PS4-PlayStation-4/dp/B08Q22ZLG8/ref=sr_1_3?dib=eyJ2IjoiMSJ9.xthoO07lO-iFvlHQux9bwHpD72PAFUrVYsYxh8gnpt0spUmJeb7GfPt1xY6w6-2AihlLkJHQtqRjFQXsMMfo3SrZLsv5YgVm7rAiMmQi-O_406A7NHF4TJuiRtuFI4nHQR5Xuz3i9GTEg7oUi6BxUhkTEqpw3xRn0JjEjYGjkuEdCRn_PO49oy82zAwVeFKmq32S-428EZr5u7Kl79nhD9AFoA9QpAyb_E2XRowOp3g.GJ_j8-KFD2lW8A6bik986Z91Ou0bV2_dXETB0FXlyQ0&dib_tag=se&keywords=Euro+Truck+Simulator+2&qid=1763617743&s=videogames&sr=1-3"
+      },
+      "hltb": {
+        "main": "13h",
+        "main_extra": "22h",
+        "completionist": "31h"
+      },
+      "metacritic": {
+        "score": 77,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Fallout 4",
+      "steam": {
+        "appid": 377160,
+        "price": 19.99,
+        "rating": 84.0,
+        "url": "https://store.steampowered.com/app/377160"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "31h",
+        "main_extra": "43h",
+        "completionist": "48h"
+      },
+      "metacritic": {
+        "score": 88,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Final Fantasy VII Remake Intergrade",
+      "steam": {
+        "appid": 1462040,
+        "price": 19.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1462040"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "37h",
+        "main_extra": "56h",
+        "completionist": "77h"
+      },
+      "metacritic": {
+        "score": 57,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Hollow Knight: Silksong",
+      "steam": {
+        "appid": 1030300,
+        "price": 19.99,
+        "rating": 91.0,
+        "url": "https://store.steampowered.com/app/1030300"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "34h",
+        "main_extra": "52h",
+        "completionist": "63h"
+      },
+      "metacritic": {
+        "score": 89,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Inscryption",
+      "steam": {
+        "appid": 1092790,
+        "price": 19.99,
+        "rating": 85.0,
+        "url": "https://store.steampowered.com/app/1092790"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "18h",
+        "main_extra": "34h",
+        "completionist": "42h"
+      },
+      "metacritic": {
+        "score": 60,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Inside",
+      "steam": {
+        "appid": 304430,
+        "price": 19.99,
+        "rating": 87.0,
+        "url": "https://store.steampowered.com/app/304430"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "30h",
+        "main_extra": "37h",
+        "completionist": "42h"
+      },
+      "metacritic": {
+        "score": 77,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Minecraft Dungeons",
+      "steam": {
+        "appid": 1672970,
+        "price": 19.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1672970"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "36h",
+        "main_extra": "43h",
+        "completionist": "60h"
+      },
+      "metacritic": {
+        "score": 84,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Ori and the Blind Forest",
+      "steam": {
+        "appid": 261570,
+        "price": null,
+        "rating": 88.0,
+        "url": "https://store.steampowered.com/app/261570"
+      },
+      "amazon": {
+        "price": 19.99,
+        "url": "https://www.amazon.com/Ori-Blind-Forest-Definitive-Xbox-One/dp/B01EJNUMQ0/ref=sr_1_3?dib=eyJ2IjoiMSJ9.uheWZCNtftf1mJKN3DRAjpU-9IqMYPajQOkudz04mh-Dh3OVwAz3SQ0fH2q4y4FedfmB2KXVpbgzX29XkaRP9mLg_eiECOxNu3aX4F6eS38fazolm3dd1WpQjFhHLv2sT1yH4MIdmUd4CtqN3pnreMl5bTN7soSBgF9IRq3AVNE_YmqqKoYhzckLdJXmekiXongdWjeNm4k7sIuFORmcYgZCVga9oPXfEINee6s9zaA.iFatEl7JhjorweQgWYosAymKEOgeWaJQGloLqGj5w9c&dib_tag=se&keywords=Ori+and+the+Blind+Forest&qid=1763617740&s=videogames&sr=1-3"
+      },
+      "hltb": {
+        "main": "25h",
+        "main_extra": "44h",
+        "completionist": "56h"
+      },
+      "metacritic": {
+        "score": 81,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 19.99
+    },
+    {
+      "name": "Persona 3 Reload",
+      "steam": {
+        "appid": 2161700,
+        "price": 59.99,
+        "rating": 89.0,
+        "url": "https://store.steampowered.com/app/2161700"
+      },
+      "amazon": {
+        "price": 19.99,
+        "url": "https://www.amazon.com/Persona-3-Reload-Standard-PlayStation-5/dp/B0CGFCC193/ref=sr_1_1?dib=eyJ2IjoiMSJ9.1-1WQwkwCfGWzfH8CYx1kCcQ9AS7v8wJ-oBv0o-GJrrCHMhLaFsgBHaeYDw98O_HJ-NrlPlebjMRQ0JhJb2vxeaGnILrSJyMgk5dYv4c-YkhLxK_lVDK3TueE2H3G_VBShYqToH7eHT5Dpm722l5TQcW5ELJS6cvnf1K-AzNbz2u_GcoV-ja0-ASIy156ZnaTpt8tb5ywD28IVQa10e3VU2p4svKZlSVQ5EWiYb6WIo.VLvtnIA5DnpKvLFZ_ZUIQrzUyrzDXNIGxCQWAVgE05Y&dib_tag=se&keywords=Persona+3+Reload&qid=1763617740&s=videogames&sr=1-1"
+      },
+      "hltb": {
+        "main": "40h",
+        "main_extra": "42h",
+        "completionist": "56h"
+      },
+      "metacritic": {
+        "score": 77,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 19.99
+    },
+    {
+      "name": "Persona 5 Royal",
+      "steam": {
+        "appid": 1687950,
+        "price": 59.99,
+        "rating": 95.0,
+        "url": "https://store.steampowered.com/app/1687950"
+      },
+      "amazon": {
+        "price": 19.99,
+        "url": "https://www.amazon.com/Persona-3-Reload-Standard-PlayStation-5/dp/B0CGFCC193/ref=sr_1_9?dib=eyJ2IjoiMSJ9.fJSZ0GPcpTHPIdZu2wyrq-e24IbpGe8sBJvI6DgiZfwaQ7QFzOalcuMneKCm-SIKMoVBXtXbCdqgX3UxkYQ9rhkXn8BAc_ChUYOg0Ez5XNjyN2xSGRumL48vnevFd-YgvoMp57KucOUfjh4xGXZ5yQ_-IaTyMZP--AJMw5TCB4d94168dWFHR8DYAUrRJuUmr7hzOOy49a1anaBRsKVim6_8oSBiQ69GppZiuXGtln0.R8WNTmqNAGQAk0JFW6vCiuBEi1KSU7aBfhnZyuvC1Lk&dib_tag=se&keywords=Persona+5+Royal&qid=1763617745&s=videogames&sr=1-9"
+      },
+      "hltb": {
+        "main": "10h",
+        "main_extra": "26h",
+        "completionist": "45h"
+      },
+      "metacritic": {
+        "score": 70,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 19.99
+    },
+    {
+      "name": "Phasmophobia",
+      "steam": {
+        "appid": 739630,
+        "price": 19.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/739630"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "39h",
+        "main_extra": "41h",
+        "completionist": "55h"
+      },
+      "metacritic": {
+        "score": 79,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Project Zomboid",
+      "steam": {
+        "appid": 108600,
+        "price": 19.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/108600"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "35h",
+        "main_extra": "38h",
+        "completionist": "44h"
+      },
+      "metacritic": {
+        "score": 91,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Raft",
+      "steam": {
+        "appid": 648800,
+        "price": 19.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/648800"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "27h",
+        "main_extra": "37h",
+        "completionist": "53h"
+      },
+      "metacritic": {
+        "score": 70,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Resident Evil 7 Biohazard",
+      "steam": {
+        "appid": 418370,
+        "price": 19.99,
+        "rating": 83.0,
+        "url": "https://store.steampowered.com/app/418370"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "29h",
+        "main_extra": "46h",
+        "completionist": "61h"
+      },
+      "metacritic": {
+        "score": 76,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Skul: The Hero Slayer",
+      "steam": {
+        "appid": 1147560,
+        "price": 19.99,
+        "rating": 80.0,
+        "url": "https://store.steampowered.com/app/1147560"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "12h",
+        "main_extra": "20h",
+        "completionist": "27h"
+      },
+      "metacritic": {
+        "score": 72,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "The Forest",
+      "steam": {
+        "appid": 242760,
+        "price": 19.99,
+        "rating": 83.0,
+        "url": "https://store.steampowered.com/app/242760"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "21h",
+        "main_extra": "27h",
+        "completionist": "42h"
+      },
+      "metacritic": {
+        "score": 80,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "The Long Dark",
+      "steam": {
+        "appid": 305620,
+        "price": 19.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/305620"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "22h",
+        "main_extra": "24h",
+        "completionist": "29h"
+      },
+      "metacritic": {
+        "score": 53,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Titan Quest Anniversary Edition",
+      "steam": {
+        "appid": 475150,
+        "price": 19.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/475150"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "39h",
+        "main_extra": "45h",
+        "completionist": "62h"
+      },
+      "metacritic": {
+        "score": 78,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Unravel Two",
+      "steam": {
+        "appid": 1225570,
+        "price": 19.99,
+        "rating": 76.0,
+        "url": "https://store.steampowered.com/app/1225570"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "18h",
+        "main_extra": "22h",
+        "completionist": "31h"
+      },
+      "metacritic": {
+        "score": 64,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Valheim",
+      "steam": {
+        "appid": 892970,
+        "price": 19.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/892970"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "32h",
+        "main_extra": "38h",
+        "completionist": "52h"
+      },
+      "metacritic": {
+        "score": 63,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Yakuza 0",
+      "steam": {
+        "appid": 638970,
+        "price": 19.99,
+        "rating": 86.0,
+        "url": "https://store.steampowered.com/app/638970"
+      },
+      "amazon": {
+        "price": 19.99,
+        "url": "https://www.amazon.com/Yakuza-Kiwami-PlayStation-Hits-4/dp/B06Y5YYCQW/ref=sr_1_7?dib=eyJ2IjoiMSJ9._Hwj_uibligZU2zu9j9tYgWBPFYGC3Z3YsN9tLzHIQKKYOWGtKHPlpkxr_MDjEmscqGoeWuaaBL1zzCzq0IRYiLYPG3iss4eN_UTWusd0EdVk2aPFXJ1M0lCobtKsGisaPmVtWe8G3ZPnNpQFMEa4GxgTwBACTDEzvzza4fOhpA004ohSGkKxjnw5qsNVVxeJ7ZovjgiDtPfjKi0u9u1GfTAV3_b6JWeYgz_ywbedlg.PrJJ1YpAuasrJ-bHbb-2BAULpAN_7Ti2-8DdI9G3gJc&dib_tag=se&keywords=Yakuza+0&qid=1763617744&s=videogames&sr=1-7"
+      },
+      "hltb": {
+        "main": "10h",
+        "main_extra": "12h",
+        "completionist": "19h"
+      },
+      "metacritic": {
+        "score": 72,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Yakuza Kiwami",
+      "steam": {
+        "appid": 834530,
+        "price": 19.99,
+        "rating": 80.0,
+        "url": "https://store.steampowered.com/app/834530"
+      },
+      "amazon": {
+        "price": 19.99,
+        "url": "https://www.amazon.com/Yakuza-Kiwami-PlayStation-Hits-4/dp/B06Y5YYCQW/ref=sr_1_5?dib=eyJ2IjoiMSJ9.Fvbi5guwrHKIusBEViM60Xrz6oS5tig_Lop24n1QaHSLufrSSMsAdb13TU2pPP1Xr02zbJWQxfOgimzOVKgu4_3ca6e7biyI-KFq55PRzQxP8Tq7BLtMtB8POGmasf_9oYAqODPjYba3wlGqMQEr1gS6C1I4_2XEoLFuLCMa-6oP3sPxDeikg760Cm9DlUUZlyeeNRsNHmlTC-GmRRCMnW2GldqKqVaClvxS4j929V8.T8o__MEzDLyTzodyxHkB213-E2BWgB6QKSNT5XXuWXo&dib_tag=se&keywords=Yakuza+Kiwami&qid=1763617745&s=videogames&sr=1-5"
+      },
+      "hltb": {
+        "main": "27h",
+        "main_extra": "42h",
+        "completionist": "59h"
+      },
+      "metacritic": {
+        "score": 71,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "Yakuza Kiwami 2",
+      "steam": {
+        "appid": 927380,
+        "price": 19.99,
+        "rating": 82.0,
+        "url": "https://store.steampowered.com/app/927380"
+      },
+      "amazon": {
+        "price": 19.99,
+        "url": "https://www.amazon.com/Yakuza-Kiwami-PlayStation-Hits-4/dp/B06Y5YYCQW/ref=sr_1_10?dib=eyJ2IjoiMSJ9.MEMpMQHca1NqkhgJx42kiMyftJI7EkpX8iP3lkMglN24odldXvCvptodHx6Y9ckZ77Y9n20ULbVsBOMBtZG6vKxCfPGLIEzwR8YXPj5SfqVuk9mcHKazO8R0xj2F9T6nHH3sxGRWg-ZDESiA7xUabBsPLrIk9Dgc78iNKm__7uexPwc_-bgF595qyluQKh6sw8dTVzQQ8eA7CFuPFkF0mDy42KG_aPkzRIsyEDlkj2s.7tKkErCy04RUrZ8_1j1TTE6EjUIW862DyNydppZ36to&dib_tag=se&keywords=Yakuza+Kiwami+2&qid=1763617745&s=videogames&sr=1-10"
+      },
+      "hltb": {
+        "main": "13h",
+        "main_extra": "18h",
+        "completionist": "39h"
+      },
+      "metacritic": {
+        "score": 91,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 19.99
+    },
+    {
+      "name": "The Last of Us Part I",
+      "steam": {
+        "appid": 1888930,
+        "price": 59.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1888930"
+      },
+      "amazon": {
+        "price": 20.9,
+        "url": "https://www.amazon.com/Last-Remastered-Sony-Playstation-Game/dp/B00LWRSJB2/ref=sr_1_7?dib=eyJ2IjoiMSJ9.XYwVrVz_NGm3dEzx6cl5IbZj4UTSIPnia_FRozFaPTR-yh55STi3LRNLFMWsYMLA8NdWObJOxF8Afml2dFMk9F-A2anIQAwGPmhog22S2vaeW8vQNGGYtms78h8J9SBeGZYPRvmsKnI1MYtCyf3DzA.TdOThEPeBW7qFmDr4z3oRNiE9imqcavj_LWqwV8B0Ac&dib_tag=se&keywords=The+Last+of+Us+Part+I&qid=1763617742&s=videogames&sr=1-7"
+      },
+      "hltb": {
+        "main": "28h",
+        "main_extra": "38h",
+        "completionist": "50h"
+      },
+      "metacritic": {
+        "score": 71,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 20.9
+    },
+    {
+      "name": "Control Ultimate Edition",
+      "steam": {
+        "appid": 870780,
+        "price": 39.99,
+        "rating": 85.0,
+        "url": "https://store.steampowered.com/app/870780"
+      },
+      "amazon": {
+        "price": 21.0,
+        "url": "https://www.amazon.com/Control-Xbox-One/dp/B07DTTPM68/ref=sr_1_8?dib=eyJ2IjoiMSJ9.nAAwXbqj0XFlvPI7tDccyDu91Bvwuquu2OABjBZNezynKIwkl_-pIkndQj4j0zxqpRnBLSBIttV9lFGRIhiVfTNHJy3kYUb7XM-BCUPF0fVu3zhUoU8n7EhhdrUpDFIehRAbl8hdT7yf5McZ6lFDSyRLYrwOdKqRiShMPLIblJg2Fzb9QBQdqJw6nTMX5S3ikbb2iqjMNwdhYkndJKtk7GwP2-ZFk0r2sNbiIYsvHCE.tTxbQNIuy11zCN9lFtTJPd7KHQkgktYREMXhsdU2JDg&dib_tag=se&keywords=Control+Ultimate+Edition&qid=1763617740&s=videogames&sr=1-8"
+      },
+      "hltb": {
+        "main": "12h",
+        "main_extra": "21h",
+        "completionist": "31h"
+      },
+      "metacritic": {
+        "score": 87,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 21.0
+    },
+    {
+      "name": "Tiny Tina's Wonderlands",
+      "steam": {
+        "appid": 1286680,
+        "price": 59.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1286680"
+      },
+      "amazon": {
+        "price": 21.4,
+        "url": "https://www.amazon.com/Tiny-Tinas-Wonderlands-Next-Level-PlayStation/dp/B09FCTFLVW/ref=sr_1_1?dib=eyJ2IjoiMSJ9._DopXn63vw4vLnM9TePAc4c4VkD7FVNfzso_nuzY0vylKsBL15ofKMwIsTBNum_C-8d6rqNrEh5nWIHeQd8-m5ve6UMFwv5esmISC1tHIbFQsbxr0M2kXHW-8e1HJ4Hc6rTP2A85YXjkexFGv9s5A3M3rVh3VmkEkEKTf-yIAsgUOVtqxkDdR0yeDehvKD3D_rUylBcQrA87f-sylHNAQn6muUfSCd8khfaYlmzRrDc.-elksJAKZ8e797k_Hey7sacrO4Qf__wwlijtQbSDuZg&dib_tag=se&keywords=tiny+tina%27s+wonderlands&qid=1763617743&s=videogames&sr=1-1"
+      },
+      "hltb": {
+        "main": "29h",
+        "main_extra": "39h",
+        "completionist": "57h"
+      },
+      "metacritic": {
+        "score": 60,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 21.4
+    },
+    {
+      "name": "Mafia: Definitive Edition",
+      "steam": {
+        "appid": 1030840,
+        "price": 39.99,
+        "rating": 78.0,
+        "url": "https://store.steampowered.com/app/1030840"
+      },
+      "amazon": {
+        "price": 21.49,
+        "url": "https://www.amazon.com/Mafia-Definitive-PlayStation-4/dp/B088MX9L66/ref=sr_1_1?dib=eyJ2IjoiMSJ9.lS64dQk6LQb6JySYRP4-qHeeAPsrDUn0yYNpEK41_2RGu0P4nOZcXORqtMjDgjpVU5gv1nFB-gZHilP3De7pSEnATRqgjvitO6CWTJ_a0YRQGXrhGVlR3lqF0VWTxj9HNsHsT47vHiVgW8gWu-wDoWampJHkDJkvTvgsN2FayLylKVw0h66shEIcyDFEnoEbbYfdLfAnAuOu1C5esn6FBToZOtivNxyVLzGyG-Tu7lY.ZWj6c12ZGGda0bJUv95wnd15qJe8wCWO4HlPxQ_iNwY&dib_tag=se&keywords=Mafia%3A+Definitive+Edition&qid=1763617740&s=videogames&sr=1-1"
+      },
+      "hltb": {
+        "main": "34h",
+        "main_extra": "54h",
+        "completionist": "73h"
+      },
+      "metacritic": {
+        "score": 64,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 21.49
+    },
+    {
+      "name": "Dark Souls Remastered",
+      "steam": {
+        "appid": 570940,
+        "price": 39.99,
+        "rating": 84.0,
+        "url": "https://store.steampowered.com/app/570940"
+      },
+      "amazon": {
+        "price": 21.79,
+        "url": "https://www.amazon.com/Dark-Souls-Remastered-PlayStation-4/dp/B078Y4FR14/ref=sr_1_1?dib=eyJ2IjoiMSJ9.1pWdtnMh6FniC_ddcncNCTmp6F0kxslX0WeTx6qw-YMFtj25RjJnYrFXRQvKPWT7HPzJULZ8drNTZp-aWf-Yp7ztDH-kTnfVTQSy8RMjtkzKknpmFeASaPw7ILtE0luIfVVZYjNexSWFz3fRN7Sdym5WEbgLPKi1twBITt-MHXVVQI_eoYfDl2_ar2xheEyImEsdUnzzM9LVIkBIr280zzye7hyOgHdIgHCy-MGbsow.dGUPlHjzBfgZbHbefr9U371iKvbZ1y7MtqYEWf2xZMw&dib_tag=se&keywords=Dark+Souls+Remastered&qid=1763617744&s=videogames&sr=1-1"
+      },
+      "hltb": {
+        "main": "25h",
+        "main_extra": "43h",
+        "completionist": "68h"
+      },
+      "metacritic": {
+        "score": 66,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 21.79
+    },
+    {
+      "name": "Subnautica",
+      "steam": {
+        "appid": 264710,
+        "price": 29.99,
+        "rating": 87.0,
+        "url": "https://store.steampowered.com/app/264710"
+      },
+      "amazon": {
+        "price": 21.8,
+        "url": "https://www.amazon.com/Subnautica-Below-Zero-PlayStation-5/dp/B08VCXGMZ9/ref=sr_1_4?dib=eyJ2IjoiMSJ9.XCBpZlYwk1lxqYAcke_SHs_BBiAiP7_6WwfwAJUJhzWOBfFaJ3avBNq7vrVvCkQs8tx9wXc9U-ZR4RWJem5fe-iM-HsxVHfxV3k-AZb1pbSIO4qeTXmLLLFCSWcQW6qPWOr-O7sy_hXSHOOyMq0J9VcL3rbFH2IH3E5Zv3RZrS1AxpzwW9mUmhHogZajKxObRpXDM-DgFfAFlmULurHS5axVu2pmwnKo4uAIvksHaw4._F93cmRLiaktwe4o3MD080KxIyzP4yffZuTHDN0ao-w&dib_tag=se&keywords=Subnautica&qid=1763617740&s=videogames&sr=1-4"
+      },
+      "hltb": {
+        "main": "36h",
+        "main_extra": "40h",
+        "completionist": "65h"
+      },
+      "metacritic": {
+        "score": 86,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 21.8
+    },
+    {
+      "name": "Subnautica: Below Zero",
+      "steam": {
+        "appid": 848450,
+        "price": 29.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/848450"
+      },
+      "amazon": {
+        "price": 21.8,
+        "url": "https://www.amazon.com/Subnautica-Below-Zero-PlayStation-4/dp/B08VD5R55V/ref=sr_1_2?dib=eyJ2IjoiMSJ9.a8OWqwrThqwDA98kZoQ4GCw_D3Ao341m5I3BIvVTqWFEfDrx47J1hOX6hi5_0ldqj7w9y1qxZPtLDpoYZqAt7LrMsNGvxIWQfYzu2hD2QzrIFizTTe9Vdg2bJrBXB05L.1Gfl0E9AsmsLpIWufSCQ6mjhjF1MjHx2saUUFlAMJS8&dib_tag=se&keywords=Subnautica%3A+Below+Zero&qid=1763617740&s=videogames&sr=1-2"
+      },
+      "hltb": {
+        "main": "38h",
+        "main_extra": "42h",
+        "completionist": "49h"
+      },
+      "metacritic": {
+        "score": 70,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 21.8
+    },
+    {
+      "name": "Triangle Strategy",
+      "steam": {
+        "appid": 1850510,
+        "price": 23.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1850510"
+      },
+      "amazon": {
+        "price": 22.0,
+        "url": "https://www.amazon.com/Shin-Megami-Tensei-Standard-Nintendo-Switch/dp/B09HYJ8YLW/ref=sr_1_10?dib=eyJ2IjoiMSJ9.UP2fzNi_PMVV6hAfNl5LcgimhOkbujTjZVEyaOllCh_2ztnEuTO8FmhkP64q5jYMbh-aAUvepITmGVdeHBr3Dp9RqSaV47vzYKmMU7Uu2M2Dq3eZrXy5wRSv8G2BC_2AUqSa8fM3UXir0y_f9NNmuAJ6nh5ru6Ths-qPMxYIG0-l_eiRotbz23ObpWLAy4xjZxL5LYcByHnOpFl56M9-pXTjiQAJdpl_YElXMLS1CXM.ctNqcfJHoddCVdID0aPsRi_6V1fCQaZYX5psKEc-s1Y&dib_tag=se&keywords=Triangle+Strategy&qid=1763617740&s=videogames&sr=1-10"
+      },
+      "hltb": {
+        "main": "12h",
+        "main_extra": "22h",
+        "completionist": "31h"
+      },
+      "metacritic": {
+        "score": 72,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 22.0
+    },
+    {
+      "name": "Hades",
+      "steam": {
+        "appid": 1145360,
+        "price": 24.99,
+        "rating": 93.0,
+        "url": "https://store.steampowered.com/app/1145360"
+      },
+      "amazon": {
+        "price": 23.95,
+        "url": "https://www.amazon.com/Hades-PlayStation-5/dp/B096BX7WMZ/ref=sr_1_2?dib=eyJ2IjoiMSJ9.lQoXa4tugCsxWntR4wAAzN62CdYpdE35cZ7Vv0Lj2JGbsEnJEdJ--XQErDAe97sP1RAJt7Lsae66Yrp3R7W0QsTRaZ4yFfoPYNY0LjNnvr5UjeaSuDOHCJSfhZS_ME7ZGCq-S_TCG1UnMWHRjqgE5EOUks00EJOiF2HZEWeFdMr5ALPoSLVx6kzzzwfwgIxwsQUx-aDWfjgWMHDxGKodUyt_xr1_TG6cFkVgwfUQsT0.Hq7qjrPGuoRbZzMUrErnJIHD94c8MoT75C6wXi1YIF8&dib_tag=se&keywords=Hades&qid=1763617740&s=videogames&sr=1-2"
+      },
+      "hltb": {
+        "main": "7h",
+        "main_extra": "13h",
+        "completionist": "23h"
+      },
+      "metacritic": {
+        "score": 73,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 23.95
+    },
+    {
+      "name": "DOOM Eternal",
+      "steam": {
+        "appid": 782330,
+        "price": 39.99,
+        "rating": 88.0,
+        "url": "https://store.steampowered.com/app/782330"
+      },
+      "amazon": {
+        "price": 23.99,
+        "url": "https://www.amazon.com/DOOM-Eternal-Standard-PlayStation-4/dp/B07HDJLSF2/ref=sr_1_1?dib=eyJ2IjoiMSJ9.5U61VDCBRtIY-MqoBRmfnQfI38jRDa4Kz16C4oqEuGRftalkb5Ermu2I7VHwDMCi-ztpvCbu2OzmCnvxzDpgC7_Psl9NkDySE-CwKPE6FoJzCenP8Ja3Nzcv2X7lrZXBca2qjG3HVsJVlDiX6397N-wKkj6mVKb_xpg5Vs6pMHUz4f6GkT_af2-mqW0utjTtTgFvu_MVDZXDeVa329AxF3DwO4YI27nxT34VsqOAcbc.NjfJKvXAS_G7sIh66xnuVFnnMExxFoiwHwCu7ZSEK04&dib_tag=se&keywords=DOOM+Eternal&qid=1763617744&s=videogames&sr=1-1"
+      },
+      "hltb": {
+        "main": "13h",
+        "main_extra": "30h",
+        "completionist": "41h"
+      },
+      "metacritic": {
+        "score": 50,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 23.99
+    },
+    {
+      "name": "Octopath Traveler",
+      "steam": {
+        "appid": 921570,
+        "price": 23.99,
+        "rating": 80.0,
+        "url": "https://store.steampowered.com/app/921570"
+      },
+      "amazon": {
+        "price": 24.99,
+        "url": "https://www.amazon.com/Sea-Stars-Nintendo-Switch/dp/B0CTP1S2YM/ref=sr_1_7?dib=eyJ2IjoiMSJ9.ZSuwSrwni5LcBYF4mcVd_3d1xU6hFc10qyzHxyPT9PyGATUA-A6Fub-R5DXOh_gOE71GS1c7WA6mXmdQHeVMdfuL89W-L_ANAqr1NKRBvuWq99mul61DJH3K9jtyhWO5A3TnkM6s_-fVF1kw2D4e8gVJKOOxRLL-IjLFKKxoasxaq_UxgQySWFK4_vm00YTr07Qtu1VTAQKfjZJr_ofBGuxYaDIMxQzjNCEyRql0xRo.jQ-SwLse6gaee6HTCPFl7qYSvN23av-4TAe_oyRSb5s&dib_tag=se&keywords=Octopath+Traveler&qid=1763617740&s=videogames&sr=1-7"
+      },
+      "hltb": {
+        "main": "8h",
+        "main_extra": "21h",
+        "completionist": "45h"
+      },
+      "metacritic": {
+        "score": 84,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 23.99
+    },
+    {
+      "name": "Octopath Traveler II",
+      "steam": {
+        "appid": 1971650,
+        "price": 23.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1971650"
+      },
+      "amazon": {
+        "price": 26.85,
+        "url": "https://www.amazon.com/Octopath-Traveler-II-Nintendo-Switch/dp/B0BF66G8F9/ref=sr_1_1?dib=eyJ2IjoiMSJ9.dzGKgEGtTmw6WtrMUixgQeEQrXyM3Y1ZN5oG-6nuzrPvPgWkcBOjBpbsW6hGhTFfDqvIyGnoiKOTH8Y91VttjdWatDCBMnpmk_Zd3LpJtSz-2Cpmd8Sv9-bDX-K-9ZXYJKDWaWR2NeHjtGsSE12726l7EpQZzJuqOP_B0UiqdpKAhWJUEMhf9hP1EY3OUj_UmQYNK3C0VjyQrc0Kh3x8bw.4OZ1SNcAx0FJUAC9UV_NO1mdkuUjTB2rLjUrenA_DNo&dib_tag=se&keywords=Octopath+Traveler+II&qid=1763617740&s=videogames&sr=1-1"
+      },
+      "hltb": {
+        "main": "24h",
+        "main_extra": "42h",
+        "completionist": "54h"
+      },
+      "metacritic": {
+        "score": 90,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 23.99
+    },
+    {
+      "name": "Dead Cells",
+      "steam": {
+        "appid": 588650,
+        "price": 24.99,
+        "rating": 89.0,
+        "url": "https://store.steampowered.com/app/588650"
+      },
+      "amazon": {
+        "price": 24.67,
+        "url": "https://www.amazon.com/Dead-Cells-Return-Castlevania-PlayStation-5/dp/B0C75JYP12/ref=sr_1_2?dib=eyJ2IjoiMSJ9.t7sctLWZ59wCEYhWEqV4JZYAuSukmXvex23r4bZvbmOG1PDGFc6YIEngWmpSaaCX61FN--wf36gyaAq0bf_K3VAe5TPirSZDw48xX4Zok8lIz2D5i2Ep4iEEt7Pvr_mBYi7Hj72q8IjFTkwRKr4Agq2Tg7aOfz7L_g4GZkRkNKbL9KWBKGpg6P4jsVbxmJycUN7tSRoe52Mdn8KLhq7L0rE9liodANPfI3uRoRGmb3E.g980Ie2a8aukUtgyGfkIJnFneuHPf22rY6wezmEI-Wk&dib_tag=se&keywords=Dead+Cells&qid=1763617740&s=videogames&sr=1-2"
+      },
+      "hltb": {
+        "main": "23h",
+        "main_extra": "30h",
+        "completionist": "49h"
+      },
+      "metacritic": {
+        "score": 69,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 24.67
+    },
+    {
+      "name": "Blasphemous",
+      "steam": {
+        "appid": 774361,
+        "price": 24.99,
+        "rating": 77.0,
+        "url": "https://store.steampowered.com/app/774361"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "33h",
+        "main_extra": "41h",
+        "completionist": "55h"
+      },
+      "metacritic": {
+        "score": 52,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 24.99
+    },
+    {
+      "name": "Grim Dawn",
+      "steam": {
+        "appid": 219990,
+        "price": 24.99,
+        "rating": 83.0,
+        "url": "https://store.steampowered.com/app/219990"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "7h",
+        "main_extra": "12h",
+        "completionist": "27h"
+      },
+      "metacritic": {
+        "score": 86,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 24.99
+    },
+    {
+      "name": "Overcooked! 2",
+      "steam": {
+        "appid": 728880,
+        "price": 24.99,
+        "rating": 81.0,
+        "url": "https://store.steampowered.com/app/728880"
+      },
+      "amazon": {
+        "price": 24.99,
+        "url": "https://www.amazon.com/Overcooked-Nintendo-Switch-Digital-Code/dp/B07FSMZVTB/ref=sr_1_6?dib=eyJ2IjoiMSJ9.awh-yxJwkwETa8okUruC8x_RXHYnblGiA85Zb1eLxuiHKtKoaJrXGZgWJnCjnCJKnd_TbegQ8cge5STD5-EuzqOYzTRtirWQhbMxWKxCaEq0QRr6lXUik5PDA1Ce43-RNH7QlsQ3PHmpA3tYddChebDhyV8LU5vdUj0XV8Z_BOHWoTOrqpxZy2DmKtnv22mQcxYFNvkxeXFvkoN3gb1PepePnbRXLNEsUgbCyqcn-K0.R0Dk9ymVlZZ_qG-MkXC8Jhv_SJCJ83RcO6Rcs8iKWB4&dib_tag=se&keywords=Overcooked%21+2&qid=1763617740&s=videogames&sr=1-6"
+      },
+      "hltb": {
+        "main": "20h",
+        "main_extra": "37h",
+        "completionist": "47h"
+      },
+      "metacritic": {
+        "score": 81,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 24.99
+    },
+    {
+      "name": "Oxygen Not Included",
+      "steam": {
+        "appid": 457140,
+        "price": 24.99,
+        "rating": 85.0,
+        "url": "https://store.steampowered.com/app/457140"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "13h",
+        "main_extra": "15h",
+        "completionist": "21h"
+      },
+      "metacritic": {
+        "score": 80,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 24.99
+    },
+    {
+      "name": "PHOGS!",
+      "steam": {
+        "appid": 850320,
+        "price": 24.99,
+        "rating": 75.0,
+        "url": "https://store.steampowered.com/app/850320"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "25h",
+        "main_extra": "30h",
+        "completionist": "37h"
+      },
+      "metacritic": {
+        "score": 56,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 24.99
+    },
+    {
+      "name": "Slay the Spire",
+      "steam": {
+        "appid": 646570,
+        "price": 24.99,
+        "rating": 89.0,
+        "url": "https://store.steampowered.com/app/646570"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "39h",
+        "main_extra": "49h",
+        "completionist": "63h"
+      },
+      "metacritic": {
+        "score": 77,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 24.99
+    },
+    {
+      "name": "Marvel's Spider-Man Remastered",
+      "steam": {
+        "appid": 1817070,
+        "price": 59.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1817070"
+      },
+      "amazon": {
+        "price": 25.33,
+        "url": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MTczNTk0MzU1MDE5NDM3OjE3NjM2MTc3NDE6c3BfYnRmOjMwMDE0NzcwMDAxNzEwMjo6MDo6&url=%2FSpiderman-Jewel-Case-PC%2Fdp%2FB000256LS8%2Fref%3Dsr_1_10_sspa%3Fdib%3DeyJ2IjoiMSJ9.4Et8RhDktk3i3eT4H4Jq0fdGdeICXCtuOP-AVusYK9EMcfCit5HkqMgUk4l7a9hczIWnUhnz7cJcM4H4Oun3ZmXtsb0ISGxVZUvPVxLdfek.AC3TechE_-vumPgmty0cMOTnImjqDJNGGpI7AZCLs0Y%26dib_tag%3Dse%26keywords%3Dmarvel%2527s%2Bspider-man%2Bremastered%26qid%3D1763617741%26s%3Dvideogames%26sr%3D1-10-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1"
+      },
+      "hltb": {
+        "main": "21h",
+        "main_extra": "41h",
+        "completionist": "54h"
+      },
+      "metacritic": {
+        "score": 50,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 25.33
+    },
+    {
+      "name": "Call of Duty: Modern Warfare II",
+      "steam": {
+        "appid": 3595230,
+        "price": 27.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/3595230"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "12h",
+        "main_extra": "18h",
+        "completionist": "25h"
+      },
+      "metacritic": {
+        "score": 54,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 27.99
+    },
+    {
+      "name": "Monster Hunter Rise",
+      "steam": {
+        "appid": 1446780,
+        "price": 39.99,
+        "rating": 86.0,
+        "url": "https://store.steampowered.com/app/1446780"
+      },
+      "amazon": {
+        "price": 28.24,
+        "url": "https://www.amazon.com/Monster-Hunter-World-Iceborne-PlayStation-Standard/dp/B07RRB3X2D/ref=sr_1_8?dib=eyJ2IjoiMSJ9.hZHlwvgJ-MWtdkNYl0lvniy1hYfQOdpdLDlQ8InGkB9PZbsgJIqHjRvBLdwxlNE_rGoQX7kL5vaztOsWGVyuDma3fpF_rJq_aTbgVNtfWfLqq1kRttHRQw3SMlfNJbqL01sJmLrQ4F_Wpi4emjNDW-e4f5yerPiL1fhnliFJ8kjqoyDuanqSetkX69Y2JbZHCkfdneNX2NoLnb2TLvFvwS8tntpp0EVYoblsVdda3jg.2bl3JwONz4icpprFaQ7KvlfbTkioMlP32LaoGP7yzCQ&dib_tag=se&keywords=Monster+Hunter+Rise&qid=1763617744&s=videogames&sr=1-8"
+      },
+      "hltb": {
+        "main": "34h",
+        "main_extra": "41h",
+        "completionist": "48h"
+      },
+      "metacritic": {
+        "score": 89,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 28.24
+    },
+    {
+      "name": "Marvel's Spider-Man: Miles Morales",
+      "steam": {
+        "appid": 1817190,
+        "price": 49.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1817190"
+      },
+      "amazon": {
+        "price": 28.88,
+        "url": "https://www.amazon.com/Marvels-Spider-Man-Miles-Morales-playstation-4/dp/B08KSN7GF4/ref=sr_1_3?dib=eyJ2IjoiMSJ9.TtWdfTM_KWhEw0qNvmCwYz_UPB94pDkyOpi-l5gL-e0Jgum_ba0LRYZcd4Io376kUHeYP8YO6dtJwJ3ozTojOyDFq5QrP-nZSLc5AODD4J1l52DgmkpKWWLoubcXbv8bEOo2DszXpQnpQmb0uidH2sEYf-71EW6Tifls-J1f-YB_8olEUIO_qW8nhz072g-hpKUMQFmhGevWzJwQK31yaAuxHiKSYZ-Y_3su3Q25iFY.V7SNh1xL52iyejwawxpe8yuTWMKZR6aLLHY9TOzPVDQ&dib_tag=se&keywords=Marvels+Spider-Man%3A+Miles+Morales&qid=1763617740&s=videogames&sr=1-3"
+      },
+      "hltb": {
+        "main": "24h",
+        "main_extra": "30h",
+        "completionist": "38h"
+      },
+      "metacritic": {
+        "score": 67,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 28.88
+    },
+    {
+      "name": "Cities: Skylines",
+      "steam": {
+        "appid": 255710,
+        "price": 29.99,
+        "rating": 85.0,
+        "url": "https://store.steampowered.com/app/255710"
+      },
+      "amazon": {
+        "price": 29.79,
+        "url": "https://www.amazon.com/Cities-Skylines-Parklife-PS4-PlayStation-4/dp/B07Y3CNGW3/ref=sr_1_3?dib=eyJ2IjoiMSJ9.IbBei3Lh0pNkcxzf0BMqbwYzHI5onGFdphqfFVlYyix3ObXqu7iNsXUoaRt8sM2rG8sNkusmWW23FrzFFYLxlL4tecP1NRtlXQkzpXTrLMPhm6QafZrPPYEsftlD2QAjNcF5VaK5j3Nn7vNNpa06YSXvukKSOjJQWkh2Ghw7uIcSIPUy6UQ21HQ121QvuhO3G5KXrC48I6j3W4i3PrHemuvFmc5NWpMF8axkghlMk30.BJC0vj3-R6v8Utj4q_B09aOJ2JrNCvYowGwGREaC5sQ&dib_tag=se&keywords=Cities%3A+Skylines&qid=1763617744&s=videogames&sr=1-3"
+      },
+      "hltb": {
+        "main": "27h",
+        "main_extra": "34h",
+        "completionist": "39h"
+      },
+      "metacritic": {
+        "score": 66,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 29.79
+    },
+    {
+      "name": "Horizon Zero Dawn Complete Edition",
+      "steam": {
+        "appid": 1151640,
+        "price": null,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1151640"
+      },
+      "amazon": {
+        "price": 29.97,
+        "url": "https://www.amazon.com/Horizon-Zero-Dawn-Complete-playstation-4/dp/B07D2NY7RW/ref=sr_1_2?dib=eyJ2IjoiMSJ9.QO1rYel2Ita8a3mdaDizTeQMQzXox7A1RqIvkW4QZ1a-JNHfDFOolBfdnMNrs4T7a0756o74CRaN2afqVZajKUTg9cuR2hvx6mA1eYkraKHaxXDZ7PpeHwOXdVVqYbSrB4eTT9j8145_4W-Ef8VV726oRaMaW7vFsfz8LZacRyczzr36MMh1VEoYXLkQYVNy.phryWQgkFtitrSNT1lCQvBDmLfyaNhJ4oVIYGDh5aGk&dib_tag=se&keywords=Horizon+Zero+Dawn+Complete+Edition&qid=1763617740&s=videogames&sr=1-2"
+      },
+      "hltb": {
+        "main": "24h",
+        "main_extra": "26h",
+        "completionist": "32h"
+      },
+      "metacritic": {
+        "score": 55,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 29.97
+    },
+    {
+      "name": "A Way Out",
+      "steam": {
+        "appid": 1222700,
+        "price": 29.99,
+        "rating": 78.0,
+        "url": "https://store.steampowered.com/app/1222700"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "30h",
+        "main_extra": "49h",
+        "completionist": "63h"
+      },
+      "metacritic": {
+        "score": 68,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 29.99
+    },
+    {
+      "name": "Blasphemous 2",
+      "steam": {
+        "appid": 2114740,
+        "price": 29.99,
+        "rating": 83.0,
+        "url": "https://store.steampowered.com/app/2114740"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "33h",
+        "main_extra": "45h",
+        "completionist": "55h"
+      },
+      "metacritic": {
+        "score": 50,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 29.99
+    },
+    {
+      "name": "Dishonored 2",
+      "steam": {
+        "appid": 403640,
+        "price": 29.99,
+        "rating": 86.0,
+        "url": "https://store.steampowered.com/app/403640"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "34h",
+        "main_extra": "37h",
+        "completionist": "48h"
+      },
+      "metacritic": {
+        "score": 54,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 29.99
+    },
+    {
+      "name": "League of Legends",
+      "steam": {
+        "appid": 1276790,
+        "price": 29.99,
+        "rating": 80.0,
+        "url": "https://store.steampowered.com/app/1276790"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "30h",
+        "main_extra": "44h",
+        "completionist": "61h"
+      },
+      "metacritic": {
+        "score": 74,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 29.99
+    },
+    {
+      "name": "Ori and the Will of the Wisps",
+      "steam": {
+        "appid": 1057090,
+        "price": 29.99,
+        "rating": 88.0,
+        "url": "https://store.steampowered.com/app/1057090"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "32h",
+        "main_extra": "46h",
+        "completionist": "59h"
+      },
+      "metacritic": {
+        "score": 68,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 29.99
+    },
+    {
+      "name": "Prey",
+      "steam": {
+        "appid": 480490,
+        "price": 29.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/480490"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "15h",
+        "main_extra": "32h",
+        "completionist": "41h"
+      },
+      "metacritic": {
+        "score": 67,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 29.99
+    },
+    {
+      "name": "Sekiro: Shadows Die Twice",
+      "steam": {
+        "appid": 814380,
+        "price": 29.99,
+        "rating": 88.0,
+        "url": "https://store.steampowered.com/app/814380"
+      },
+      "amazon": {
+        "price": 43.99,
+        "url": "https://www.amazon.com/Sekiro-Shadows-Die-Twice-Xbox-One/dp/B07DK19C7N/ref=sr_1_1?dib=eyJ2IjoiMSJ9.6xNOFLz67kkGZHgVA_gHW3warFckjQs6a1tDsG5X42c-ynbki45ok8ar_D0vjreoQeCzq0_at1rr8pm0gaBNRTbyaGMVTKcwYQToJDuENdftzreTybSwMgpeR7LLS7Z2N8hKkaSy_IdGCbZ2dS6wXRJN1z2nEBP_OfUnlHuXYoO5dRvpZIdhM7-v0P-xOyTs2BDAxpKzIwTqlCqCtXFHw3DlO2CRicDB9e_8bSdLvWI.3s1E9kD654-eJeBdqFpHVwcxLC6nTkgbbOygJGAmrKw&dib_tag=se&keywords=Sekiro%3A+Shadows+Die+Twice&qid=1763617743&s=videogames&sr=1-1"
+      },
+      "hltb": {
+        "main": "35h",
+        "main_extra": "43h",
+        "completionist": "65h"
+      },
+      "metacritic": {
+        "score": 52,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 29.99
+    },
+    {
+      "name": "Sons of the Forest",
+      "steam": {
+        "appid": 1326470,
+        "price": 29.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1326470"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "5h",
+        "main_extra": "20h",
+        "completionist": "42h"
+      },
+      "metacritic": {
+        "score": 81,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 29.99
+    },
+    {
+      "name": "The Outer Worlds",
+      "steam": {
+        "appid": 578650,
+        "price": 29.99,
+        "rating": 82.0,
+        "url": "https://store.steampowered.com/app/578650"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "15h",
+        "main_extra": "20h",
+        "completionist": "25h"
+      },
+      "metacritic": {
+        "score": 86,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 29.99
+    },
+    {
+      "name": "Two Point Campus",
+      "steam": {
+        "appid": 1649080,
+        "price": 29.99,
+        "rating": 83.0,
+        "url": "https://store.steampowered.com/app/1649080"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "17h",
+        "main_extra": "32h",
+        "completionist": "41h"
+      },
+      "metacritic": {
+        "score": 75,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 29.99
+    },
+    {
+      "name": "Forza Horizon 5",
+      "steam": {
+        "appid": 1551360,
+        "price": 59.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1551360"
+      },
+      "amazon": {
+        "price": 31.92,
+        "url": "https://www.amazon.com/Forza-Motorsport-Certified-Refurbished-Xbox-One/dp/B07H8RRGFH/ref=sr_1_5?dib=eyJ2IjoiMSJ9.33onQSL-dzMC-V3EeMCYhDTS2wAsMIxkt8Q7xoY2jEb8uKIx_PHvzQ6yBIratL5lodeCqOLpxOHkTxT8yC0f70Fakyentc5cm7jFBS5XL9s2TL_h8GjJjxVOsxpl5-7iDo3L2pWo6oKp57J6pvZJYvY0DBiwSTpqXsYFOEyfUjIkOgkZ8XjHs4_uqfUqXvntO0adaHVN5Jaaivq5APuiXcvPq87xizISL98eeJny4Mg.COzeWkjP2fiSx4IXieSR187wA4I5efDsKccOh6p5Xgk&dib_tag=se&keywords=Forza+Horizon+5&qid=1763617743&s=videogames&sr=1-5"
+      },
+      "hltb": {
+        "main": "28h",
+        "main_extra": "30h",
+        "completionist": "35h"
+      },
+      "metacritic": {
+        "score": 82,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 31.92
+    },
+    {
+      "name": "The Evil Within 2",
+      "steam": {
+        "appid": 601430,
+        "price": 39.99,
+        "rating": 80.0,
+        "url": "https://store.steampowered.com/app/601430"
+      },
+      "amazon": {
+        "price": 33.0,
+        "url": "https://www.amazon.com/Evil-Within-PlayStation-Renewed-4/dp/B0821VSHHR/ref=sr_1_4?dib=eyJ2IjoiMSJ9.xvP7O0-Gyfi_9rLVhpW5BzFc335GQGect74sWELLpaFVNtrL6KqfgMseRtcujy024CQI536Iih9pu7rhKMaE9H7a0Scw2bzwHsWXdn2m4wyJE_jSbXkuaefS02vaTbD63FNNqKsVs_FyeuMwQuDYnD3d4Pel5Dg5FvvdISXIyNouIPVSeZG2bldBqf3HQrKz7G1K8vC1YmKhYsNzs8iAlX9x3CrCDyK9xt3E9mFMAtc.YCBkOLSA33jYBXAJH_Y2ILHDg8pe8FunEUwPn9vB9MM&dib_tag=se&keywords=The+Evil+Within+2&qid=1763617743&s=videogames&sr=1-4"
+      },
+      "hltb": {
+        "main": "18h",
+        "main_extra": "30h",
+        "completionist": "47h"
+      },
+      "metacritic": {
+        "score": 70,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 33.0
+    },
+    {
+      "name": "Call of Duty: Modern Warfare III",
+      "steam": {
+        "appid": 3595270,
+        "price": 34.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/3595270"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "15h",
+        "main_extra": "35h",
+        "completionist": "51h"
+      },
+      "metacritic": {
+        "score": 69,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 34.99
+    },
+    {
+      "name": "RimWorld",
+      "steam": {
+        "appid": 294100,
+        "price": 34.99,
+        "rating": 87.0,
+        "url": "https://store.steampowered.com/app/294100"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "30h",
+        "main_extra": "34h",
+        "completionist": "42h"
+      },
+      "metacritic": {
+        "score": 56,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 34.99
+    },
+    {
+      "name": "Factorio",
+      "steam": {
+        "appid": 427520,
+        "price": 35.0,
+        "rating": 90.0,
+        "url": "https://store.steampowered.com/app/427520"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "24h",
+        "main_extra": "35h",
+        "completionist": "56h"
+      },
+      "metacritic": {
+        "score": 90,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 35.0
+    },
+    {
+      "name": "Sea of Thieves",
+      "steam": {
+        "appid": 1172620,
+        "price": 39.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1172620"
+      },
+      "amazon": {
+        "price": 35.19,
+        "url": "https://www.amazon.com/Sea-Thieves-Xbox-One/dp/B00ZPT59YS/ref=sr_1_1?dib=eyJ2IjoiMSJ9.T9VqvQvqNEitE04V0VIecPls08Tks23A8u9-SGarlhmBJDdxbNvitM4bDyqancaeViPdLjxmTiXmCHsFrQ7piqKWDuqOgpNVKsqtMJS6sHZPnLMLmlc3cKSONfyL0RaWwzrQaupVidx1P9GT6li_ijU5h5tVVIsRL65jhjLuqXK2CUNdLhbPSvHDL7ru8kiazYDiEZBuka0fUZfgP0zTSLUfRBS5vNrXDQLx4Q6TpSA.e4ovj1fpXV0n31ECk9VES60lxqMIe-_HztfQuR39Zkw&dib_tag=se&keywords=Sea+of+Thieves&qid=1763617740&s=videogames&sr=1-1"
+      },
+      "hltb": {
+        "main": "23h",
+        "main_extra": "28h",
+        "completionist": "45h"
+      },
+      "metacritic": {
+        "score": 95,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 35.19
+    },
+    {
+      "name": "NieR Replicant ver.1.22474487139...",
+      "steam": null,
+      "amazon": {
+        "price": 37.99,
+        "url": "https://www.amazon.com/Nier-Replicant-ver-1-22474487139-XBOX-ONE/dp/B08KQBNW33/ref=sr_1_3?dib=eyJ2IjoiMSJ9.1mPjUa6NZq8DwYXXZuRvNEM-B9Z9OfAoPE6jgjP27OvfiB8zsvloZxiK3tWc-DMis7a952EaOodv23-X2cZUTD6sUUtDFS7TvBQ05DCz_-je6YIthptNpIgG75P2LQQ4Rx8ZmcPCPJoFUekZNkVhV1E9cQIviDvPJ-wwTBd2x2BbLVSdAg9qHsGztR-sFaXknZxY9EhxEIBY1hQDTRZfJA.w9mEZO6wjY4N10AKI3g9TJeXfMlbe4qoVLnT8ryuthY&dib_tag=se&keywords=NieR+Replicant+ver.1.22474487139...&qid=1763617744&s=videogames&sr=1-3"
+      },
+      "hltb": {
+        "main": "28h",
+        "main_extra": "31h",
+        "completionist": "56h"
+      },
+      "metacritic": {
+        "score": 54,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 37.99
+    },
+    {
+      "name": "Days Gone",
+      "steam": {
+        "appid": 1259420,
+        "price": 39.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1259420"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "35h",
+        "main_extra": "54h",
+        "completionist": "68h"
+      },
+      "metacritic": {
+        "score": 59,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 39.99
+    },
+    {
+      "name": "Dragon Age: Inquisition",
+      "steam": {
+        "appid": 1222690,
+        "price": 39.99,
+        "rating": 85.0,
+        "url": "https://store.steampowered.com/app/1222690"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "39h",
+        "main_extra": "49h",
+        "completionist": "70h"
+      },
+      "metacritic": {
+        "score": 64,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 39.99
+    },
+    {
+      "name": "Grounded",
+      "steam": {
+        "appid": 962130,
+        "price": 39.99,
+        "rating": 83.0,
+        "url": "https://store.steampowered.com/app/962130"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "6h",
+        "main_extra": "23h",
+        "completionist": "41h"
+      },
+      "metacritic": {
+        "score": 88,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 39.99
+    },
+    {
+      "name": "It Takes Two",
+      "steam": {
+        "appid": 1426210,
+        "price": 39.99,
+        "rating": 89.0,
+        "url": "https://store.steampowered.com/app/1426210"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "21h",
+        "main_extra": "25h",
+        "completionist": "31h"
+      },
+      "metacritic": {
+        "score": 94,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 39.99
+    },
+    {
+      "name": "Resident Evil 4",
+      "steam": {
+        "appid": 2050650,
+        "price": 39.99,
+        "rating": 91.0,
+        "url": "https://store.steampowered.com/app/2050650"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "32h",
+        "main_extra": "48h",
+        "completionist": "63h"
+      },
+      "metacritic": {
+        "score": 68,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 39.99
+    },
+    {
+      "name": "Rust",
+      "steam": {
+        "appid": 252490,
+        "price": 39.99,
+        "rating": 69.0,
+        "url": "https://store.steampowered.com/app/252490"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "23h",
+        "main_extra": "38h",
+        "completionist": "53h"
+      },
+      "metacritic": {
+        "score": 89,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 39.99
+    },
+    {
+      "name": "Satisfactory",
+      "steam": {
+        "appid": 526870,
+        "price": 39.99,
+        "rating": 91.0,
+        "url": "https://store.steampowered.com/app/526870"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "35h",
+        "main_extra": "50h",
+        "completionist": "60h"
+      },
+      "metacritic": {
+        "score": 95,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 39.99
+    },
+    {
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "steam": {
+        "appid": 489830,
+        "price": 39.99,
+        "rating": 74.0,
+        "url": "https://store.steampowered.com/app/489830"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "24h",
+        "main_extra": "37h",
+        "completionist": "48h"
+      },
+      "metacritic": {
+        "score": 62,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 39.99
+    },
+    {
+      "name": "The Witcher 3: Wild Hunt",
+      "steam": {
+        "appid": 292030,
+        "price": 39.99,
+        "rating": 93.0,
+        "url": "https://store.steampowered.com/app/292030"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "14h",
+        "main_extra": "21h",
+        "completionist": "33h"
+      },
+      "metacritic": {
+        "score": 94,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 39.99
+    },
+    {
+      "name": "Wolfenstein II: The New Colossus",
+      "steam": {
+        "appid": 612880,
+        "price": 39.99,
+        "rating": 86.0,
+        "url": "https://store.steampowered.com/app/612880"
+      },
+      "amazon": {
+        "price": 39.99,
+        "url": "https://www.amazon.com/Wolfenstein-II-Colossus-Nintendo-Digital/dp/B07DW7RF1M/ref=sr_1_3?dib=eyJ2IjoiMSJ9.AArvdQzW1L1qfuJNxG-u6EKsaV8okG8mvKUrxEKY1E0fYOLjaKqMmxBPmGE9aVXQpf5GMHR6zKdNDhhNh-5IqFaUFmZAieuq25vqmDisr84EvnZOGM6D9vXurD8HGL3xXfRHufko36jPyTsm_6anFhzq94_TitDyskyApL1MmHokP3SXh2krboaQ-yymQ3FLsyfCaG1rn4smYWDFKVLBGA4Ju5bgzKTEmx_Mv4FjazU.M8zx-T1y2ojhgTNFCqES3zHNuku6Fame2vD2VFPcFH0&dib_tag=se&keywords=Wolfenstein+II%3A+The+New+Colossus&qid=1763617743&s=videogames&sr=1-3"
+      },
+      "hltb": {
+        "main": "15h",
+        "main_extra": "22h",
+        "completionist": "33h"
+      },
+      "metacritic": {
+        "score": 50,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 39.99
+    },
+    {
+      "name": "7 Days to Die",
+      "steam": {
+        "appid": 251570,
+        "price": 44.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/251570"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "24h",
+        "main_extra": "29h",
+        "completionist": "53h"
+      },
+      "metacritic": {
+        "score": 67,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 44.99
+    },
+    {
+      "name": "Divinity: Original Sin 2 - Definitive Edition",
+      "steam": {
+        "appid": 435150,
+        "price": 44.99,
+        "rating": 93.0,
+        "url": "https://store.steampowered.com/app/435150"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "33h",
+        "main_extra": "50h",
+        "completionist": "61h"
+      },
+      "metacritic": {
+        "score": 95,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 44.99
+    },
+    {
+      "name": "God of War",
+      "steam": {
+        "appid": 1593500,
+        "price": 49.99,
+        "rating": 93.0,
+        "url": "https://store.steampowered.com/app/1593500"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "30h",
+        "main_extra": "43h",
+        "completionist": "55h"
+      },
+      "metacritic": {
+        "score": 67,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 49.99
+    },
+    {
+      "name": "Microsoft Flight Simulator",
+      "steam": {
+        "appid": 2537590,
+        "price": 69.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/2537590"
+      },
+      "amazon": {
+        "price": 56.99,
+        "url": "https://www.amazon.com/Microsoft-Flight-Simulator-Standard-Online/dp/B08CXF1HLD/ref=sr_1_4?dib=eyJ2IjoiMSJ9.d9E93VjAqTYhWTtT_p9rwTS2Vv4_1I7oX3tbQGdCMkx2ux_psmjT7nM6Rpa-Cirrj45D2Sgu7fAnDOdF0CMRDXQlGx9-h17uG9dq92LIq9i98E8XM9cbyx2YGsmEMlDRW9toLHcriR1LgqKcipsIu58-RIJB9Ah6lp9MACbKcJ8mJoDitwjkpf2-8lHmOWKfaMZaOVQzRzOKccezIO7uUGa8v3hUdjOixnjvvhFd5Fo.wtag67K_0FVKp9FhM7zfvRLoDHAiyYCXOfhT_DO5OlE&dib_tag=se&keywords=Microsoft+Flight+Simulator&qid=1763617744&s=videogames&sr=1-4"
+      },
+      "hltb": {
+        "main": "16h",
+        "main_extra": "34h",
+        "completionist": "40h"
+      },
+      "metacritic": {
+        "score": 84,
+        "url": null
+      },
+      "best_store": "Amazon",
+      "best_price": 56.99
+    },
+    {
+      "name": "ARMORED CORE VI FIRES OF RUBICON",
+      "steam": {
+        "appid": 1888160,
+        "price": 59.99,
+        "rating": 86.0,
+        "url": "https://store.steampowered.com/app/1888160"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "14h",
+        "main_extra": "17h",
+        "completionist": "29h"
+      },
+      "metacritic": {
+        "score": 72,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 59.99
+    },
+    {
+      "name": "Assassin's Creed Odyssey",
+      "steam": {
+        "appid": 812140,
+        "price": 59.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/812140"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "36h",
+        "main_extra": "41h",
+        "completionist": "62h"
+      },
+      "metacritic": {
+        "score": 56,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 59.99
+    },
+    {
+      "name": "Assassin's Creed Valhalla",
+      "steam": {
+        "appid": 2208920,
+        "price": 59.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/2208920"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "34h",
+        "main_extra": "53h",
+        "completionist": "75h"
+      },
+      "metacritic": {
+        "score": 85,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 59.99
+    },
+    {
+      "name": "Baldur's Gate 3",
+      "steam": {
+        "appid": 1086940,
+        "price": 59.99,
+        "rating": 96.0,
+        "url": "https://store.steampowered.com/app/1086940"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "7h",
+        "main_extra": "17h",
+        "completionist": "35h"
+      },
+      "metacritic": {
+        "score": 66,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 59.99
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "steam": {
+        "appid": 1091500,
+        "price": 59.99,
+        "rating": 86.0,
+        "url": "https://store.steampowered.com/app/1091500"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "9h",
+        "main_extra": "13h",
+        "completionist": "34h"
+      },
+      "metacritic": {
+        "score": 64,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 59.99
+    },
+    {
+      "name": "Deathloop",
+      "steam": {
+        "appid": 1252330,
+        "price": 59.99,
+        "rating": 87.0,
+        "url": "https://store.steampowered.com/app/1252330"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "26h",
+        "main_extra": "44h",
+        "completionist": "49h"
+      },
+      "metacritic": {
+        "score": 63,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 59.99
+    },
+    {
+      "name": "Far Cry 5",
+      "steam": {
+        "appid": 552520,
+        "price": 59.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/552520"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "5h",
+        "main_extra": "14h",
+        "completionist": "19h"
+      },
+      "metacritic": {
+        "score": 88,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 59.99
+    },
+    {
+      "name": "Far Cry 6",
+      "steam": {
+        "appid": 2369390,
+        "price": 59.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/2369390"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "31h",
+        "main_extra": "39h",
+        "completionist": "62h"
+      },
+      "metacritic": {
+        "score": 66,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 59.99
+    },
+    {
+      "name": "Half-Life: Alyx",
+      "steam": {
+        "appid": 546560,
+        "price": 59.99,
+        "rating": 93.0,
+        "url": "https://store.steampowered.com/app/546560"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "19h",
+        "main_extra": "25h",
+        "completionist": "34h"
+      },
+      "metacritic": {
+        "score": 61,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 59.99
+    },
+    {
+      "name": "Mass Effect Legendary Edition",
+      "steam": {
+        "appid": 1328670,
+        "price": 59.99,
+        "rating": 86.0,
+        "url": "https://store.steampowered.com/app/1328670"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "15h",
+        "main_extra": "30h",
+        "completionist": "48h"
+      },
+      "metacritic": {
+        "score": 62,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 59.99
+    },
+    {
+      "name": "No Man's Sky",
+      "steam": {
+        "appid": 275850,
+        "price": 59.99,
+        "rating": 61.0,
+        "url": "https://store.steampowered.com/app/275850"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "13h",
+        "main_extra": "24h",
+        "completionist": "48h"
+      },
+      "metacritic": {
+        "score": 64,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 59.99
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "steam": {
+        "appid": 1174180,
+        "price": 59.99,
+        "rating": 93.0,
+        "url": "https://store.steampowered.com/app/1174180"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "9h",
+        "main_extra": "21h",
+        "completionist": "33h"
+      },
+      "metacritic": {
+        "score": 85,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 59.99
+    },
+    {
+      "name": "Starfield",
+      "steam": {
+        "appid": 1716740,
+        "price": 69.99,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1716740"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "22h",
+        "main_extra": "42h",
+        "completionist": "48h"
+      },
+      "metacritic": {
+        "score": 62,
+        "url": null
+      },
+      "best_store": "Steam",
+      "best_price": 69.99
+    },
+    {
+      "name": "Alan Wake 2",
+      "steam": null,
+      "amazon": null,
+      "hltb": {
+        "main": "27h",
+        "main_extra": "47h",
+        "completionist": "56h"
+      },
+      "metacritic": {
+        "score": 92,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    },
+    {
+      "name": "Alan Wake Remastered",
+      "steam": null,
+      "amazon": null,
+      "hltb": {
+        "main": "30h",
+        "main_extra": "38h",
+        "completionist": "57h"
+      },
+      "metacritic": {
+        "score": 85,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    },
+    {
+      "name": "Apex Legends",
+      "steam": {
+        "appid": 1172470,
+        "price": null,
+        "rating": 88.0,
+        "url": "https://store.steampowered.com/app/1172470"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "38h",
+        "main_extra": "48h",
+        "completionist": "60h"
+      },
+      "metacritic": {
+        "score": 87,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    },
+    {
+      "name": "BioShock Remastered",
+      "steam": null,
+      "amazon": null,
+      "hltb": {
+        "main": "17h",
+        "main_extra": "30h",
+        "completionist": "47h"
+      },
+      "metacritic": {
+        "score": 91,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    },
+    {
+      "name": "Counter-Strike 2",
+      "steam": {
+        "appid": 730,
+        "price": null,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/730"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "33h",
+        "main_extra": "51h",
+        "completionist": "65h"
+      },
+      "metacritic": {
+        "score": 94,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    },
+    {
+      "name": "Diablo III",
+      "steam": null,
+      "amazon": null,
+      "hltb": {
+        "main": "19h",
+        "main_extra": "37h",
+        "completionist": "59h"
+      },
+      "metacritic": {
+        "score": 81,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    },
+    {
+      "name": "DOOM (2016)",
+      "steam": null,
+      "amazon": null,
+      "hltb": {
+        "main": "33h",
+        "main_extra": "46h",
+        "completionist": "54h"
+      },
+      "metacritic": {
+        "score": 88,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    },
+    {
+      "name": "Dota 2",
+      "steam": {
+        "appid": 570,
+        "price": null,
+        "rating": 90.0,
+        "url": "https://store.steampowered.com/app/570"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "6h",
+        "main_extra": "11h",
+        "completionist": "20h"
+      },
+      "metacritic": {
+        "score": 87,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    },
+    {
+      "name": "Fall Guys",
+      "steam": null,
+      "amazon": null,
+      "hltb": {
+        "main": "4h",
+        "main_extra": "14h",
+        "completionist": "26h"
+      },
+      "metacritic": {
+        "score": 60,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    },
+    {
+      "name": "Fortnite",
+      "steam": null,
+      "amazon": null,
+      "hltb": {
+        "main": "32h",
+        "main_extra": "45h",
+        "completionist": "66h"
+      },
+      "metacritic": {
+        "score": 52,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    },
+    {
+      "name": "Genshin Impact",
+      "steam": null,
+      "amazon": null,
+      "hltb": {
+        "main": "34h",
+        "main_extra": "52h",
+        "completionist": "76h"
+      },
+      "metacritic": {
+        "score": 92,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    },
+    {
+      "name": "Lost Ark",
+      "steam": {
+        "appid": 3583650,
+        "price": null,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/3583650"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "7h",
+        "main_extra": "23h",
+        "completionist": "44h"
+      },
+      "metacritic": {
+        "score": 62,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    },
+    {
+      "name": "Minecraft Java Edition",
+      "steam": null,
+      "amazon": null,
+      "hltb": {
+        "main": "37h",
+        "main_extra": "51h",
+        "completionist": "61h"
+      },
+      "metacritic": {
+        "score": 85,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    },
+    {
+      "name": "Mori",
+      "steam": {
+        "appid": 3052450,
+        "price": null,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/3052450"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "36h",
+        "main_extra": "39h",
+        "completionist": "51h"
+      },
+      "metacritic": {
+        "score": 67,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    },
+    {
+      "name": "Overwatch 2",
+      "steam": {
+        "appid": 2357570,
+        "price": null,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/2357570"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "12h",
+        "main_extra": "17h",
+        "completionist": "41h"
+      },
+      "metacritic": {
+        "score": 63,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    },
+    {
+      "name": "PUBG: Battlegrounds",
+      "steam": {
+        "appid": 578080,
+        "price": null,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/578080"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "31h",
+        "main_extra": "41h",
+        "completionist": "63h"
+      },
+      "metacritic": {
+        "score": 83,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    },
+    {
+      "name": "Rainbow Six Siege",
+      "steam": {
+        "appid": 1182520,
+        "price": null,
+        "rating": null,
+        "url": "https://store.steampowered.com/app/1182520"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "24h",
+        "main_extra": "40h",
+        "completionist": "48h"
+      },
+      "metacritic": {
+        "score": 73,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    },
+    {
+      "name": "Team Fortress 2",
+      "steam": {
+        "appid": 440,
+        "price": null,
+        "rating": 92.0,
+        "url": "https://store.steampowered.com/app/440"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "30h",
+        "main_extra": "37h",
+        "completionist": "47h"
+      },
+      "metacritic": {
+        "score": 89,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    },
+    {
+      "name": "Valorant",
+      "steam": null,
+      "amazon": null,
+      "hltb": {
+        "main": "16h",
+        "main_extra": "25h",
+        "completionist": "34h"
+      },
+      "metacritic": {
+        "score": 63,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    },
+    {
+      "name": "Warframe",
+      "steam": {
+        "appid": 230410,
+        "price": null,
+        "rating": 69.0,
+        "url": "https://store.steampowered.com/app/230410"
+      },
+      "amazon": null,
+      "hltb": {
+        "main": "21h",
+        "main_extra": "40h",
+        "completionist": "56h"
+      },
+      "metacritic": {
+        "score": 57,
+        "url": null
+      },
+      "best_store": null,
+      "best_price": null
+    }
+  ]
+}
