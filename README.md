@@ -1,7 +1,7 @@
 # 🎮 TECGameScraper  
 ### Scraping de Ofertas de Videojuegos · Multiproceso · Firebase · Dashboard Web
 
-**TECGameScraper** es un proyecto creado por **estudiantes de primer año del Tecnológico de Costa Rica (TEC)**.  
+**GameScraper** es un proyecto creado por nosotros **estudiantes de primer año del TEC | San Carlos**.  
 Nace como un reto para construir desde cero un sistema real que combine scraping, procesamiento inteligente de datos y visualización web moderna.
 
 ---
@@ -46,5 +46,4 @@ En resumen:
 
 ---
 
-## 🖼 Vista General del Sistema
 
