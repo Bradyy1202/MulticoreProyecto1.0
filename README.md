@@ -1,4 +1,4 @@
-# 🎮 TECGameScraper  
+# - GameScraper -  
 ### Scraping de Ofertas de Videojuegos · Multiproceso · Firebase · Dashboard Web
 
 **GameScraper** es un proyecto creado por nosotros **estudiantes de primer año del TEC | San Carlos**.  
