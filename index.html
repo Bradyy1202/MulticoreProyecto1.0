@@ -1,0 +1,784 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Ofertas de Videojuegos</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    :root {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background-color: #0b1120;
+      color: #e5e7eb;
+      --accent: #22c55e;
+      --accent-soft: rgba(34,197,94,0.15);
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background: radial-gradient(circle at top, #1f2937 0, #020617 60%);
+      min-height: 100vh;
+    }
+
+    header {
+      padding: 1.5rem 2rem 1rem;
+      border-bottom: 1px solid #1f2937;
+      background: rgba(15,23,42,0.95);
+      backdrop-filter: blur(10px);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 1.6rem;
+      display: flex;
+      align-items: center;
+      gap: .5rem;
+    }
+
+    h1 span.badge {
+      font-size: .75rem;
+      padding: .2rem .5rem;
+      border-radius: 999px;
+      background: #111827;
+      border: 1px solid #374151;
+      text-transform: uppercase;
+      letter-spacing: .04em;
+    }
+
+    main {
+      padding: 1rem 2rem 2rem;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .toolbar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+      gap: .75rem;
+      margin-bottom: 1rem;
+      align-items: end;
+    }
+
+    .field {
+      display: flex;
+      flex-direction: column;
+      gap: .25rem;
+      font-size: .8rem;
+    }
+
+    label {
+      color: #9ca3af;
+    }
+
+    select {
+      padding: .4rem .5rem;
+      border-radius: .5rem;
+      border: 1px solid #374151;
+      background: #020617;
+      color: #e5e7eb;
+      font-size: .85rem;
+    }
+
+    .stats {
+      font-size: .8rem;
+      color: #9ca3af;
+      margin-bottom: .75rem;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1rem;
+    }
+
+    .card {
+      background: radial-gradient(circle at top left, rgba(34,197,94,0.1), #020617);
+      border-radius: 1rem;
+      overflow: hidden;
+      border: 1px solid #1f2937;
+      box-shadow: 0 15px 35px rgba(0,0,0,0.55);
+      display: flex;
+      flex-direction: column;
+      cursor: pointer;
+      transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-3px);
+      border-color: var(--accent);
+      box-shadow: 0 20px 45px rgba(34,197,94,0.25);
+    }
+
+    .card img {
+      width: 100%;
+      height: 150px;
+      object-fit: cover;
+      background: #020617;
+    }
+
+    .card-body {
+      padding: .75rem .9rem .9rem;
+      display: flex;
+      flex-direction: column;
+      gap: .35rem;
+    }
+
+    .title-row {
+      display: flex;
+      justify-content: space-between;
+      gap: .5rem;
+      align-items: flex-start;
+    }
+
+    .card-title {
+      font-size: .95rem;
+      font-weight: 600;
+      line-height: 1.2;
+    }
+
+    .score-pill {
+      padding: .25rem .45rem;
+      border-radius: 999px;
+      font-size: .7rem;
+      border: 1px solid #374151;
+      min-width: 2.2rem;
+      text-align: center;
+    }
+
+    .score-pill.good { border-color: #22c55e; color: #bbf7d0; }
+    .score-pill.mid { border-color: #eab308; color: #fef9c3; }
+    .score-pill.bad { border-color: #ef4444; color: #fecaca; }
+
+    .price-row {
+      display: flex;
+      align-items: baseline;
+      gap: .4rem;
+      font-size: .9rem;
+    }
+
+    .price-best {
+      font-weight: 700;
+      color: var(--accent);
+    }
+
+    .price-regular {
+      text-decoration: line-through;
+      color: #6b7280;
+      font-size: .8rem;
+    }
+
+    .discount-tag {
+      margin-left: auto;
+      font-size: .7rem;
+      padding: .15rem .45rem;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: #bbf7d0;
+    }
+
+    .meta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .35rem;
+      margin-top: .4rem;
+    }
+
+    .chip {
+      font-size: .7rem;
+      padding: .18rem .45rem;
+      border-radius: 999px;
+      border: 1px solid #374151;
+      color: #9ca3af;
+    }
+
+    .chip.primary {
+      border-color: var(--accent);
+      color: #bbf7d0;
+    }
+
+    .hltb-row {
+      font-size: .7rem;
+      color: #9ca3af;
+      margin-top: .3rem;
+    }
+
+    /* modal */
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      background: rgba(15,23,42,0.85);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 30;
+    }
+
+    .modal-backdrop.show {
+      display: flex;
+    }
+
+    .modal {
+      background: #020617;
+      border-radius: 1.1rem;
+      border: 1px solid #1f2937;
+      padding: 1rem 1.25rem 1.25rem;
+      max-width: 750px;
+      width: 100%;
+      max-height: 90vh;
+      overflow-y: auto;
+      box-shadow: 0 25px 60px rgba(0,0,0,0.75);
+    }
+
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      gap: .5rem;
+      align-items: flex-start;
+      margin-bottom: .6rem;
+    }
+
+    .modal-header h2 {
+      margin: 0;
+      font-size: 1.1rem;
+    }
+
+    .close-btn {
+      background: transparent;
+      border: none;
+      color: #9ca3af;
+      font-size: 1.3rem;
+      cursor: pointer;
+    }
+
+    .modal-body {
+      display: grid;
+      grid-template-columns: minmax(0, 1.6fr) minmax(0, 1.4fr);
+      gap: .9rem;
+    }
+
+    @media (max-width: 800px) {
+      .modal-body {
+        grid-template-columns: 1fr;
+      }
+      header, main {
+        padding-inline: 1rem;
+      }
+    }
+
+    .modal img {
+      width: 100%;
+      border-radius: .75rem;
+      object-fit: cover;
+      max-height: 220px;
+    }
+
+    .detail-group {
+      margin-bottom: .6rem;
+      font-size: .85rem;
+    }
+
+    .detail-group h3 {
+      margin: 0 0 .25rem;
+      font-size: .85rem;
+      color: #9ca3af;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .8rem;
+    }
+
+    th, td {
+      padding: .25rem .2rem;
+      border-bottom: 1px solid #111827;
+    }
+
+    th {
+      text-align: left;
+      color: #9ca3af;
+    }
+
+    a {
+      color: #60a5fa;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .badge-soft {
+      font-size: .7rem;
+      padding: .15rem .35rem;
+      border-radius: 999px;
+      background: #111827;
+      border: 1px solid #374151;
+      color: #9ca3af;
+    }
+  </style>
+</head>
+<body>
+<header>
+  <h1>
+    Motor de Ofertas de Videojuegos
+    <span class="badge">Scraping + Multicore</span>
+  </h1>
+</header>
+
+<main>
+  <section class="toolbar">
+    <div class="field">
+      <label for="filterType">Tipo de juego</label>
+      <select id="filterType">
+        <option value="all">Todos</option>
+        <option value="Digital">Digital</option>
+        <option value="Physical">Físico</option>
+        <option value="Mixed">Mixto</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="filterPlatform">Plataforma</label>
+      <select id="filterPlatform">
+        <option value="all">Todas</option>
+        <option value="PC">PC (Steam)</option>
+        <option value="PlayStation">PlayStation</option>
+        <option value="Xbox">Xbox</option>
+        <option value="Switch">Nintendo Switch</option>
+        <option value="Other">Otras</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="filterStore">Tienda / Sitio</label>
+      <select id="filterStore">
+        <option value="all">Todas</option>
+        <option value="Steam">Steam</option>
+        <option value="Amazon">Amazon</option>
+        <option value="Both">Steam + Amazon</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="sortBy">Ordenar por</label>
+      <select id="sortBy">
+        <option value="name">Nombre</option>
+        <option value="price">Precio (menor primero)</option>
+        <option value="discount">% Descuento (mayor primero)</option>
+        <option value="metacritic">Score Metacritic (mayor primero)</option>
+      </select>
+    </div>
+  </section>
+
+  <div class="stats" id="stats"></div>
+
+  <section class="grid" id="cards"></section>
+</main>
+
+<!-- Modal detalle -->
+<div class="modal-backdrop" id="modalBackdrop">
+  <div class="modal">
+    <div class="modal-header">
+      <h2 id="modalTitle"></h2>
+      <button class="close-btn" id="modalClose">&times;</button>
+    </div>
+    <div class="modal-body">
+      <div>
+        <img id="modalImage" alt="">
+        <div class="detail-group">
+          <h3>Resumen</h3>
+          <div id="modalSummary"></div>
+        </div>
+        <div class="detail-group">
+          <h3>HowLongToBeat</h3>
+          <div id="modalHLTB"></div>
+        </div>
+      </div>
+      <div>
+        <div class="detail-group">
+          <h3>Precios por tienda</h3>
+          <table>
+            <thead>
+            <tr>
+              <th>Tienda</th>
+              <th>Precio</th>
+              <th>Enlace</th>
+            </tr>
+            </thead>
+            <tbody id="modalPrices"></tbody>
+          </table>
+        </div>
+        <div class="detail-group">
+          <h3>Detalle técnico</h3>
+          <div id="modalTech"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  const cardsContainer = document.getElementById('cards');
+  const statsEl = document.getElementById('stats');
+
+  const filterType = document.getElementById('filterType');
+  const filterPlatform = document.getElementById('filterPlatform');
+  const filterStore = document.getElementById('filterStore');
+  const sortBy = document.getElementById('sortBy');
+
+  const modalBackdrop = document.getElementById('modalBackdrop');
+  const modalClose = document.getElementById('modalClose');
+  const modalTitle = document.getElementById('modalTitle');
+  const modalImage = document.getElementById('modalImage');
+  const modalSummary = document.getElementById('modalSummary');
+  const modalHLTB = document.getElementById('modalHLTB');
+  const modalPrices = document.getElementById('modalPrices');
+  const modalTech = document.getElementById('modalTech');
+
+  let allGames = [];
+  let viewGames = [];
+
+  // 🔗 TU RTDB
+  const FIREBASE_URL =
+    "https://multicoreproyecto-default-rtdb.firebaseio.com/scraping/resultados_juegos.json";
+
+  function computeDerived(g) {
+    const hasSteam = g.steam && g.steam.price != null;
+    const hasAmazon = g.amazon && g.amazon.price != null;
+
+    const steamPrice = hasSteam ? Number(g.steam.price) : null;
+    const amazonPrice = hasAmazon ? Number(g.amazon.price) : null;
+    const bestPrice = g.best_price != null ? Number(g.best_price) : (steamPrice ?? amazonPrice ?? null);
+
+    let regularPrice = null;
+    if (steamPrice != null && amazonPrice != null) {
+      regularPrice = Math.max(steamPrice, amazonPrice);
+    } else if (bestPrice != null) {
+      regularPrice = bestPrice * 1.25;
+    }
+
+    let discountPct = 0;
+    if (regularPrice && bestPrice != null) {
+      discountPct = Math.round((1 - bestPrice / regularPrice) * 100);
+      if (!Number.isFinite(discountPct) || discountPct < 0) discountPct = 0;
+    }
+
+    let type = 'Other';
+    if (hasSteam && hasAmazon) {
+      type = 'Mixed';
+    } else if (hasSteam) {
+      type = 'Digital';
+    } else if (hasAmazon) {
+      const url = (g.amazon.url || '').toLowerCase();
+      if (url.includes('digital') || url.includes('online-game-code') || url.includes('download')) {
+        type = 'Digital';
+      } else {
+        type = 'Physical';
+      }
+    }
+
+    const platforms = new Set();
+    if (hasSteam) platforms.add('PC');
+    if (hasAmazon && g.amazon.url) {
+      const u = g.amazon.url.toLowerCase();
+      if (u.includes('playstation-5') || u.includes('ps5')) platforms.add('PlayStation');
+      else if (u.includes('playstation-4') || u.includes('ps4')) platforms.add('PlayStation');
+      if (u.includes('xbox-one') || u.includes('xbox')) platforms.add('Xbox');
+      if (u.includes('nintendo-switch') || u.includes('switch')) platforms.add('Switch');
+    }
+    if (platforms.size === 0) platforms.add('Other');
+
+    const stores = [];
+    if (hasSteam) stores.push('Steam');
+    if (hasAmazon) stores.push('Amazon');
+
+    const score = g.metacritic && g.metacritic.score != null ? Number(g.metacritic.score) : null;
+
+    return {
+      ...g,
+      hasSteam,
+      hasAmazon,
+      steamPrice,
+      amazonPrice,
+      bestPrice,
+      regularPrice,
+      discountPct,
+      type,
+      platforms: Array.from(platforms),
+      stores,
+      score
+    };
+  }
+
+  function scoreClass(score) {
+    if (score == null) return '';
+    if (score >= 80) return 'good';
+    if (score >= 60) return 'mid';
+    return 'bad';
+  }
+
+  function createCard(g) {
+    const card = document.createElement('article');
+    card.className = 'card';
+
+    let imgUrl = 'https://dummyimage.com/600x338/020617/ffffff&text=Sin+imagen';
+    if (g.steam && g.steam.appid) {
+      imgUrl = `https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/${g.steam.appid}/capsule_616x353.jpg`;
+    }
+
+    const img = document.createElement('img');
+    img.src = imgUrl;
+    img.alt = g.name;
+
+    const body = document.createElement('div');
+    body.className = 'card-body';
+
+    const titleRow = document.createElement('div');
+    titleRow.className = 'title-row';
+
+    const title = document.createElement('div');
+    title.className = 'card-title';
+    title.textContent = g.name;
+
+    const score = document.createElement('div');
+    score.className = 'score-pill ' + scoreClass(g.score);
+    score.textContent = g.score != null ? g.score : 'N/A';
+
+    titleRow.appendChild(title);
+    titleRow.appendChild(score);
+
+    const priceRow = document.createElement('div');
+    priceRow.className = 'price-row';
+
+    const best = document.createElement('span');
+    best.className = 'price-best';
+    best.textContent = g.bestPrice != null ? `$${g.bestPrice.toFixed(2)}` : 'Sin precio';
+
+    priceRow.appendChild(best);
+
+    if (g.regularPrice && g.bestPrice != null && g.regularPrice > g.bestPrice) {
+      const reg = document.createElement('span');
+      reg.className = 'price-regular';
+      reg.textContent = `$${g.regularPrice.toFixed(2)}`;
+      priceRow.appendChild(reg);
+
+      if (g.discountPct > 0) {
+        const disc = document.createElement('span');
+        disc.className = 'discount-tag';
+        disc.textContent = `-${g.discountPct}%`;
+        priceRow.appendChild(disc);
+      }
+    }
+
+    const metaRow = document.createElement('div');
+    metaRow.className = 'meta-row';
+
+    const typeChip = document.createElement('span');
+    typeChip.className = 'chip primary';
+    typeChip.textContent = g.type;
+    metaRow.appendChild(typeChip);
+
+    g.platforms.forEach(p => {
+      const c = document.createElement('span');
+      c.className = 'chip';
+      c.textContent = p;
+      metaRow.appendChild(c);
+    });
+
+    g.stores.forEach(s => {
+      const c = document.createElement('span');
+      c.className = 'chip';
+      c.textContent = s;
+      metaRow.appendChild(c);
+    });
+
+    const hltbRow = document.createElement('div');
+    hltbRow.className = 'hltb-row';
+    if (g.hltb) {
+      const main = g.hltb.main || 'N/D';
+      const extra = g.hltb.main_extra || 'N/D';
+      hltbRow.textContent = `HLTB: Main ${main} · Main+Extra ${extra}`;
+    }
+
+    body.appendChild(titleRow);
+    body.appendChild(priceRow);
+    body.appendChild(metaRow);
+    body.appendChild(hltbRow);
+
+    card.appendChild(img);
+    card.appendChild(body);
+
+    card.addEventListener('click', () => openModal(g, imgUrl));
+    return card;
+  }
+
+  function render() {
+    let filtered = allGames.slice();
+
+    if (filterType.value !== 'all') {
+      filtered = filtered.filter(g => g.type === filterType.value);
+    }
+
+    if (filterPlatform.value !== 'all') {
+      filtered = filtered.filter(g => {
+        if (filterPlatform.value === 'Other') {
+          return g.platforms.includes('Other');
+        }
+        if (filterPlatform.value === 'PlayStation') {
+          return g.platforms.includes('PlayStation');
+        }
+        if (filterPlatform.value === 'Xbox') {
+          return g.platforms.includes('Xbox');
+        }
+        if (filterPlatform.value === 'Switch') {
+          return g.platforms.includes('Switch');
+        }
+        return g.platforms.includes('PC');
+      });
+    }
+
+    if (filterStore.value !== 'all') {
+      if (filterStore.value === 'Steam') {
+        filtered = filtered.filter(g => g.hasSteam);
+      } else if (filterStore.value === 'Amazon') {
+        filtered = filtered.filter(g => g.hasAmazon);
+      } else if (filterStore.value === 'Both') {
+        filtered = filtered.filter(g => g.hasSteam && g.hasAmazon);
+      }
+    }
+
+    filtered.sort((a, b) => {
+      switch (sortBy.value) {
+        case 'price':
+          return (a.bestPrice ?? Infinity) - (b.bestPrice ?? Infinity);
+        case 'discount':
+          return (b.discountPct ?? 0) - (a.discountPct ?? 0);
+        case 'metacritic':
+          return (b.score ?? -1) - (a.score ?? -1);
+        case 'name':
+        default:
+          return a.name.localeCompare(b.name);
+      }
+    });
+
+    viewGames = filtered;
+    cardsContainer.innerHTML = '';
+    filtered.forEach(g => cardsContainer.appendChild(createCard(g)));
+
+    statsEl.textContent = `Mostrando ${filtered.length} de ${allGames.length} juegos · moneda: USD`;
+  }
+
+  function openModal(g, imgUrl) {
+    modalTitle.textContent = g.name;
+    modalImage.src = imgUrl;
+    modalImage.alt = g.name;
+
+    const scoreTxt = g.score != null ? `${g.score}/100` : 'N/D';
+    const summaryParts = [];
+    summaryParts.push(`<span class="badge-soft">Mejor precio: ${g.bestPrice != null ? '$' + g.bestPrice.toFixed(2) : 'N/D'}</span>`);
+    if (g.regularPrice) {
+      summaryParts.push(`<span class="badge-soft">Precio sugerido: $${g.regularPrice.toFixed(2)}</span>`);
+      if (g.discountPct > 0) {
+        summaryParts.push(`<span class="badge-soft">Descuento: -${g.discountPct}%</span>`);
+      }
+    }
+    summaryParts.push(`<span class="badge-soft">Tipo: ${g.type}</span>`);
+    summaryParts.push(`<span class="badge-soft">Plataformas: ${g.platforms.join(', ')}</span>`);
+    summaryParts.push(`<span class="badge-soft">Metacritic: ${scoreTxt}</span>`);
+    modalSummary.innerHTML = summaryParts.join(' ');
+
+    if (g.hltb) {
+      modalHLTB.innerHTML = `
+        <div><strong>Main:</strong> ${g.hltb.main || 'N/D'}</div>
+        <div><strong>Main + Extra:</strong> ${g.hltb.main_extra || 'N/D'}</div>
+        <div><strong>Completionist:</strong> ${g.hltb.completionist || 'N/D'}</div>
+      `;
+    } else {
+      modalHLTB.textContent = 'No hay datos de HLTB para este juego.';
+    }
+
+    modalPrices.innerHTML = '';
+    if (g.hasSteam) {
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td>Steam</td>
+        <td>${g.steamPrice != null ? '$' + g.steamPrice.toFixed(2) : 'N/D'}</td>
+        <td>${g.steam.url ? `<a href="${g.steam.url}" target="_blank">Ver en Steam</a>` : ''}</td>
+      `;
+      modalPrices.appendChild(tr);
+    }
+    if (g.hasAmazon) {
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td>Amazon</td>
+        <td>${g.amazonPrice != null ? '$' + g.amazonPrice.toFixed(2) : 'N/D'}</td>
+        <td>${g.amazon.url ? `<a href="${g.amazon.url}" target="_blank">Ver en Amazon</a>` : ''}</td>
+      `;
+      modalPrices.appendChild(tr);
+    }
+    if (!g.hasSteam && !g.hasAmazon) {
+      const tr = document.createElement('tr');
+      tr.innerHTML = `<td colspan="3">No hay precios disponibles.</td>`;
+      modalPrices.appendChild(tr);
+    }
+
+    modalTech.innerHTML = `
+      <div><strong>Tienda(s):</strong> ${g.stores.join(', ') || 'N/D'}</div>
+      <div><strong>Score Metacritic:</strong> ${g.score != null ? g.score : 'N/D'}</div>
+      <div><strong>Rating Steam (Metacritic):</strong> ${g.steam && g.steam.rating != null ? g.steam.rating : 'N/D'}</div>
+    `;
+
+    modalBackdrop.classList.add('show');
+  }
+
+  modalClose.addEventListener('click', () => modalBackdrop.classList.remove('show'));
+  modalBackdrop.addEventListener('click', e => {
+    if (e.target === modalBackdrop) modalBackdrop.classList.remove('show');
+  });
+
+  filterType.addEventListener('change', render);
+  filterPlatform.addEventListener('change', render);
+  filterStore.addEventListener('change', render);
+  sortBy.addEventListener('change', render);
+
+  async function loadAndRender() {
+    statsEl.textContent = "Cargando datos desde Firebase...";
+    try {
+      const res = await fetch(FIREBASE_URL + "?t=" + Date.now());
+      console.log("FETCH STATUS:", res.status);
+
+      const text = await res.text();
+      console.log("RAW RESPONSE:", text);
+
+      const data = JSON.parse(text);
+      console.log("DATA DE FIREBASE:", data);
+
+      if (!data || !data.items) {
+        statsEl.textContent = "No hay datos en Firebase (items vacíos).";
+        allGames = [];
+        render();
+        return;
+      }
+
+      const items = data.items || [];
+      allGames = items.map(computeDerived);
+      render();
+    } catch (e) {
+      console.error("Error cargando datos desde Firebase:", e);
+      statsEl.textContent = "Error cargando datos desde Firebase. Revisa la consola.";
+    }
+  }
+
+  function init() {
+    loadAndRender();
+    setInterval(loadAndRender, 60000);
+  }
+
+  init();
+</script>
+
+</body>
+</html>
