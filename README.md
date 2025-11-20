@@ -1,5 +1,5 @@
 
-<h1>🎮 TECGameScraper</h1>
+<h1>🎮 GameScraper</h1>
 <h3>Scraping de Ofertas de Videojuegos · Multiproceso · Firebase · Dashboard Web</h3>
 
 <p>
