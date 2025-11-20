@@ -46,6 +46,8 @@ El objetivo fue construir un sistema real que combina scraping, procesamiento in
 <p>
 Somos estudiantes del <b>Tecnológico de Costa Rica</b> que estamos aprendiendo tecnologías reales desde primer año.  
 Este proyecto nos enseñó scraping, concurrencia, bases en la nube y diseño web moderno.
+
+Esperamos que lo disfrutes!!
 </p>
 
 </body>
