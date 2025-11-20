@@ -1,32 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="UTF-8">
-<title>TECGameScraper README</title>
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        max-width: 900px;
-        margin: 40px auto;
-        padding: 20px;
-        line-height: 1.6;
-        background: #0b1120;
-        color: #e5e7eb;
-    }
-    h1, h2, h3 {
-        color: #22c55e;
-    }
-    .box {
-        padding: 15px;
-        background: #111827;
-        border-left: 4px solid #22c55e;
-        margin: 15px 0;
-        border-radius: 8px;
-    }
-    a { color: #60a5fa; }
-</style>
-</head>
-<body>
 
 <h1>🎮 TECGameScraper</h1>
 <h3>Scraping de Ofertas de Videojuegos · Multiproceso · Firebase · Dashboard Web</h3>
